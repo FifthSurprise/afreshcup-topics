@@ -1,6 +1,6 @@
 # Engineering Hiring
 
-==== How to Hire ====
+## How to Hire
 
   * [Buiding Intersectionality Into Your Hiring Strategy](https://peopleofcolorintech.com/articles/building-intersectionality-into-your-hiring-strategy/)
   * [Great developers are raised, not hired](https://sizovs.net/2019/04/10/the-best-developers-are-raised-not-hired/) - Trying to hire "rock stars" is a waste of time.
@@ -29,13 +29,13 @@
   * [The Experience Paradox](https://codemanship.wordpress.com/2020/02/29/the-experience-vs-age-paradox/)
 
 
-=== Take-Homes and Challenges ===
+### Take-Homes and Challenges
 
   * [3 good reasons to kill whiteboard and design challenges in interviews](https://uxdesign.cc/3-reasons-to-kill-whiteboard-and-design-challenges-ed8fcfa6ad15?source=rss----138adf9c44c---4)
   * [Design challenges in interviews — how not to?](https://uxdesign.cc/design-challenges-in-interviews-how-not-to-a5c0df44d8bd?source=rss----138adf9c44c---4)
   * [Why We Prefer Coding Challenges and How We Made Ours Better](https://gravitational.com/blog/coding-challenge) - If you're going to require candidates to write serious code, you owe it to them to make the process as good as possible.
 
-==== How to Get Hired ====
+## How to Get Hired
 
   * [Don't help me say No](https://glebbahmutov.com/blog/dont-help-me-say-no/) - Advice to applicants to avoid common mistakes.
   * [Advice to Less-Experienced Developers](https://afreshcup.com/home/2019/06/01/advice-to-less-experienced-developers) - From Mike Gunderloy
@@ -46,6 +46,6 @@
   * [Job negotiation for programmers: the basic principles](https://codewithoutrules.com/2019/11/27/job-negotiation-for-programmers/)
   * [Tech Hiring Managers Answer Common Behavioral Interview Questions](https://medium.com/better-programming/hiring-managers-share-how-to-answer-behavioral-interview-questions-e78e0e9df572)
 
-==== Books ====
+## Books
 
   * [The Effective Hiring Manager](https://www.amazon.com/Effective-Hiring-Manager-Mark-Horstman/dp/1119574323) -    I grabbed this one as soon as it was available and I'm glad I did; a lot of Horstman's advice will inform my future hiring process. That said, many many people are going to hate this book because it is bluntly about doing a good job of hiring based on job fit and merit. If you're one of the people who feels diversity & inclusion must be considered when hiring, well, those words aren't even in the index. There are also other times that you'll want to bring someone in based on factors other than proven ability in job skills (hiring interns, for example). But if you want a step-by-step process that leads to efficient decision-making and removes dependence on "gut feeling", and that goes from reading CVs straight through onboarding, you've come to the right place. (Reviewed by Mike Gunderloy)

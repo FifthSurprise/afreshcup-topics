@@ -1,19 +1,17 @@
 # Software Management
 
-===== Software Management =====
-
-  * [[https://www.amazon.com/After-Gold-Rush-Profession-Engineering/dp/0735608776|After the Gold Rush]]
-  * [[https://www.amazon.com/Death-March-Developers-Surviving-Impossible/dp/0137483104|Deathmarch]]
-  * [[https://www.amazon.com/Debugging-Development-Process-Practical-Strategies/dp/1556156502|Debugging the Development Process]]
-  * [[https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X|Escaping the Build Trap]] - A solid read for anyone who aspires to be a product manager, works with product managers and wants to understand what they do, or who wants to drive their organization towards being product-led. In other words, pretty much every developer and developer-adjacent employee I've ever know. Melissa Perri does a great job of explaining why turning into a feature factory is a trap, and how to escape by focusing on real value delivery driven by hypothesis and experiment. The book also helps distinguish between project management and product management, and shows why the latter is a critical missing skill in many agile companies. Particularly relevant if you've struggled with deciding which things to deliver, or if you've been handed a veneer of "lean" thinking without any organizational change to philosophy to back it up. (Reviewed by Mike Gunderloy)
-  * [[https://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert-dp-0321117425/dp/0321117425|Facts and Fallacies of Software Engineering]]
-  * [[https://www.amazon.com/Managing-Unmanageable-Insights-Software-People-dp-032182203X/dp/032182203X|Managing the Unmanageable]]
-  * [[https://leanpub.com/memoirs-of-a-software-team-leader|Memoirs of a Software Team Leader]]
-  * [[https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary-dp-0201835959/dp/0201835959|The Mythical Man-Month]]
-  * [[https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd-dp-0321934113/dp/0321934113|Peopleware]]
-  * [[https://www.amazon.com/Rapid-Development-Taming-Software-Schedules-dp-1556159005/dp/1556159005|Rapid Development]]
-  * [[https://www.amazon.com/Practical-Guide-Successful-Software-Projects/dp/0974514047|Ship It!]]
-  * [[https://www.amazon.com/Software-Numbers-Low-Risk-High-Return-Development/dp/0131407287|Software by Numbers]]
-  * [[https://www.amazon.com/Software-Your-Head-Protocols-Maintaining/dp/0201604566|Software for Your Head]]
-  * [[https://www.amazon.com/Software-Project-Survival-Developer-Practices/dp/1572316217|Software Project Survival Guide]]
-  * [[https://www.amazon.com/Writing-Solid-Code-Microsoft-Programming/dp/1556155514|Writing Solid Code]]
+  * [After the Gold Rush](https://www.amazon.com/After-Gold-Rush-Profession-Engineering/dp/0735608776)
+  * [Deathmarch](https://www.amazon.com/Death-March-Developers-Surviving-Impossible/dp/0137483104)
+  * [Debugging the Development Process](https://www.amazon.com/Debugging-Development-Process-Practical-Strategies/dp/1556156502)
+  * [Escaping the Build Trap](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X) - A solid read for anyone who aspires to be a product manager, works with product managers and wants to understand what they do, or who wants to drive their organization towards being product-led. In other words, pretty much every developer and developer-adjacent employee I've ever know. Melissa Perri does a great job of explaining why turning into a feature factory is a trap, and how to escape by focusing on real value delivery driven by hypothesis and experiment. The book also helps distinguish between project management and product management, and shows why the latter is a critical missing skill in many agile companies. Particularly relevant if you've struggled with deciding which things to deliver, or if you've been handed a veneer of "lean" thinking without any organizational change to philosophy to back it up. (Reviewed by Mike Gunderloy)
+  * [Facts and Fallacies of Software Engineering](https://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert-dp-0321117425/dp/0321117425)
+  * [Managing the Unmanageable](https://www.amazon.com/Managing-Unmanageable-Insights-Software-People-dp-032182203X/dp/032182203X)
+  * [Memoirs of a Software Team Leader](https://leanpub.com/memoirs-of-a-software-team-leader)
+  * [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary-dp-0201835959/dp/0201835959)
+  * [Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd-dp-0321934113/dp/0321934113)
+  * [Rapid Development](https://www.amazon.com/Rapid-Development-Taming-Software-Schedules-dp-1556159005/dp/1556159005)
+  * [Ship It!](https://www.amazon.com/Practical-Guide-Successful-Software-Projects/dp/0974514047)
+  * [Software by Numbers](https://www.amazon.com/Software-Numbers-Low-Risk-High-Return-Development/dp/0131407287)
+  * [Software for Your Head](https://www.amazon.com/Software-Your-Head-Protocols-Maintaining/dp/0201604566)
+  * [Software Project Survival Guide](https://www.amazon.com/Software-Project-Survival-Developer-Practices/dp/1572316217)
+  * [Writing Solid Code](https://www.amazon.com/Writing-Solid-Code-Microsoft-Programming/dp/1556155514)
