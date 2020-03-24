@@ -389,7 +389,62 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="serverless">Serverless</h1>
+                                <h1 id="serverless--aws-lambda">Serverless &amp; AWS Lambda</h1>
+<h2 id="articles--blog-posts">Articles &amp; Blog Posts</h2>
+<h3 id="general-serverless">General Serverless</h3>
+<ul>
+<li><a href="https://medium.com/digital-anatomy/five-facets-of-flow-strategy-96a737243ee5" target="_blank">Five Facets of Flow Strategy</a> - A broad set of things to consider as we move into a serverless, event-driven network of small pieces.</li>
+<li><a href="https://medium.com/@PaulDJohnston/serverless-best-practices-b3c97d551535" target="_blank">Serverless Best Practices</a></li>
+<li><a href="https://github.com/cristim/serverless-failure-stories" target="_blank">Serverless Failure Stories</a></li>
+<li><a href="https://martinfowler.com/articles/serverless.html" target="_blank">Serverless Architectures</a></li>
+<li><a href="https://read.acloud.guru/https-medium-com-timawagner-serverless-mullet-architectures-212487bc75c?source=rss----cf64e15dbc8c---4&amp;gi=13182535f800" target="_blank">Serverless Mullet Architectures</a></li>
+<li><a href="https://blog.alexellis.io/getting-started-with-the-plonk-stack-and-serverless/" target="_blank">Getting Started with the PLONK Stack and Serverless 2.0</a> - Prometheus, Linkerd, OpenFaaS, NATS, Kubernetes</li>
+</ul>
+<h3 id="aws-lambda">AWS Lambda</h3>
+<ul>
+<li><a href="http://www.tbray.org/ongoing/When/201x/2018/12/09/Serverlessness" target="_blank">Serverlessness</a>- Series of blog posts from Amazon&apos;s Tim Bray, based on his re:invent 2018 talk.</li>
+<li><a href="https://theburningmonk.com/2019/02/lambda-optimization-tip-enable-http-keep-alive/" target="_blank">Lambda optimization tip &#x2013; enable HTTP keep-alive</a> - For DynamoDB specifically</li>
+<li><a href="https://advancedweb.hu/2019/04/10/limiting_lambda/" target="_blank">AWS: How to limit Lambda and API Gateway scalability</a>: Cost control in the cloud.</li>
+<li><a href="https://medium.com/capital-one-tech/best-practices-for-aws-lambda-container-reuse-6ec45c74b67e" target="_blank">Best Practices for AWS Lambda Container Reuse</a>: &quot;Optimizing Warm Starts When Connecting AWS Lambda to Other Services&quot;</li>
+<li><a href="https://www.cookieshq.co.uk/posts/a-useful-tool-for-building-serverless-ruby-apps-with-aws-lambda" target="_blank">A useful tool for building serverless Ruby apps with AWS Lambda</a>: Introducing Ruby_Lambda.</li>
+<li><a href="https://aws.amazon.com/blogs/architecture/ten-things-serverless-architects-should-know/" target="_blank">https://aws.amazon.com/blogs/architecture/ten-things-serverless-architects-should-know/</a></li>
+<li><a href="https://medium.com/predict/lambda-optimization-tip-enable-http-keep-alive-ef7aa7880554" target="_blank">Lambda optimization tip &#x2014; enable HTTP keep-alive</a> - Including notes on how to test the optimization</li>
+<li><a href="https://aws.amazon.com/blogs/compute/designing-durable-serverless-apps-with-dlqs-for-amazon-sns-amazon-sqs-aws-lambda/" target="_blank">Designing durable serverless apps with DLQs for Amazon SNS, Amazon SQS, AWS Lambda</a></li>
+<li><a href="https://medium.com/@jlaitio/aws-serverless-websockets-introduction-around-the-pitfalls-f623518635df" target="_blank">AWS Serverless WebSockets &#x2014; Introduction Around the Pitfalls</a></li>
+<li><a href="https://github.com/nsriram/lambda-the-cli-way" target="_blank">AWS Lambda the CLI Way</a> - In-depth tutorial that does everything from the command line.</li>
+</ul>
+<h3 id="development">Development</h3>
+<ul>
+<li><a href="https://dev.to/ibmdeveloper/serverless-functions-with-webassembly-modules-343e" target="_blank">Serverless Functions With WebAssembly Modules </a></li>
+<li><a href="https://blog.alexellis.io/faas-for-the-rubyist/" target="_blank">FaaS for the Rubyist</a> - Self-hosting with OpenFAAS.</li>
+<li><a href="https://theodo-uk.github.io/sls-dev-tools/" target="_blank">Serverless-Dev-Tools</a> - Console-based management for AWS Lambda.</li>
+</ul>
+<h3 id="security">Security</h3>
+<ul>
+<li><a href="http://flaws2.cloud/" target="_blank">flAWS2.cloud</a> -Interactive security training that lets you play the attacker or defender roles.</li>
+</ul>
+<h3 id="logging">Logging</h3>
+<ul>
+<li><a href="https://www.datadoghq.com/blog/datadog-for-serverless/" target="_blank">Introducing Datadog for serverless</a></li>
+</ul>
+<h3 id="aws-api-gateway">AWS API Gateway</h3>
+<ul>
+<li><a href="https://www.alexdebrie.com/posts/api-gateway-elements/" target="_blank">A Detailed Overview of AWS API Gateway</a></li>
+</ul>
+<h3 id="deployment">Deployment</h3>
+<ul>
+<li><a href="https://serverless.pub/deploy-frontend-to-s3-and-sar/?utm_content=88841955&amp;utm_medium=social&amp;utm_source=twitter&amp;hss_channel=tw-920289756919074817" target="_blank">How to use CloudFormation to deploy Frontend Apps to S3 and Serverless Application Repository</a>: A nice workaround for some AWS limitations.</li>
+<li><a href="https://github.com/serverless-components/aws-app-sync" target="_blank">Serverless AppSync Component</a>: &quot;The AppSync Serverless Component allows you to easily and quickly deploy GraphQL APIs on AWS, and integrate them with AWS Lambda, DynamoDB &amp; others.&quot;</li>
+</ul>
+<h3 id="testing">Testing</h3>
+<ul>
+<li><a href="https://vacationtracker.io/blog/big-bad-serverless-vendor-lock-in/" target="_blank">Fighting vendor lock-in and designing testable serverless apps using hexagonal architecture</a></li>
+</ul>
+<h3 id="other-tools">Other Tools</h3>
+<ul>
+<li><a href="https://github.com/jeremydaly/lambda-warmer" target="_blank">Lambda Warmer</a> - Optimizer for Lambda cold starts</li>
+<li><a href="https://aws.amazon.com/blogs/developer/announcing-ruby-build-support-for-aws-sam-cli/" target="_blank">Announcing Ruby build support for AWS SAM CLI</a></li>
+</ul>
 
                                 
                                 </section>
@@ -433,7 +488,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"description":"Mostly (but not entirely) AWS Lambda related","title":"Serverless","level":"4.2","depth":1,"next":{"title":"Design (UI and otherwise)","level":"4.3","depth":1,"path":"topics-in-software/design-ui-and-otherwise.md","ref":"topics-in-software/design-ui-and-otherwise.md","articles":[]},"previous":{"title":"Architecture","level":"4.1","depth":1,"path":"topics-in-software/architecture.md","ref":"topics-in-software/architecture.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"topics-in-software/serverless.md","mtime":"2020-03-24T16:35:08.905Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-03-24T16:35:47.300Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"description":"Mostly (but not entirely) AWS Lambda related","title":"Serverless","level":"4.2","depth":1,"next":{"title":"Design (UI and otherwise)","level":"4.3","depth":1,"path":"topics-in-software/design-ui-and-otherwise.md","ref":"topics-in-software/design-ui-and-otherwise.md","articles":[]},"previous":{"title":"Architecture","level":"4.1","depth":1,"path":"topics-in-software/architecture.md","ref":"topics-in-software/architecture.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"topics-in-software/serverless.md","mtime":"2020-03-24T20:13:05.054Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-03-24T20:13:45.456Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
