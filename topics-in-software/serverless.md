@@ -34,6 +34,7 @@ description: Mostly (but not entirely) AWS Lambda related
   * [Serverless Functions With WebAssembly Modules ](https://dev.to/ibmdeveloper/serverless-functions-with-webassembly-modules-343e)
   * [FaaS for the Rubyist](https://blog.alexellis.io/faas-for-the-rubyist/) - Self-hosting with OpenFAAS.
   * [Serverless-Dev-Tools](https://theodo-uk.github.io/sls-dev-tools/) - Console-based management for AWS Lambda.
+  * [24 open source tools for the serverless developer: Part 1](https://aws.amazon.com/blogs/opensource/24-open-source-tools-for-the-serverless-developer-part-1/) and [Part 2](https://aws.amazon.com/blogs/opensource/24-open-source-tools-for-the-serverless-developer-part-2/)
 
 ### Security
 

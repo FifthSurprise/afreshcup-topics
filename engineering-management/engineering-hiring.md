@@ -27,6 +27,8 @@
   * [No engineer has ever sued a company because of constructive post-interview feedback. So why don’t employers do it?](http://blog.interviewing.io/no-engineer-has-ever-sued-a-company-because-of-constructive-post-interview-feedback-so-why-dont-employers-do-it/)
   * [The Horrifically Dystopian World of Software Engineering Interviews](https://www.jarednelsen.dev/posts/the-horrifically-dystopian-world-of-software-engineering-interviews/)
   * [The Experience Paradox](https://codemanship.wordpress.com/2020/02/29/the-experience-vs-age-paradox/)
+  * [The Science Behind Making Software Engineering Interviews Truly Predictive of Job Performance](https://www.qualified.io/blog/posts/truly-predictive-software-engineering-interviews)
+  * [Thoughts on Recruiting](https://markmcgranaghan.com/recruiting)
 
 
 ### Take-Homes and Challenges

@@ -82,7 +82,7 @@ Some links that might be useful as we move forward into a microservicesworld:
   * [Microservice Architecture at Medium](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f?gi=1af9f74b0d87)
   * [How to sleep at night having a cloud service: common Architecture Do's ](https://danielsada.tech/blog/cloud-services-dos/)
   * [Should this be a microservice?](https://www.mikebz.com/2019/12/should-this-be-microservice.html)
-
+  * [Data-Oriented Architecture](https://blog.eyas.sh/2020/03/data-oriented-architecture/) - "In data-oriented architecture, a monolithic data store is the sole source of state in the system, which is being acted on by loosely-coupled, stateless microservices."
 
 ### Containerization
 

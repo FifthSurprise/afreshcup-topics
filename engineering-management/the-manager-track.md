@@ -50,10 +50,7 @@ A few links for anyone thinking of hopping to the management track:
 * [ Coaching tool: The ORG team building model ](https://failfastmoveon.blogspot.com/2019/06/coaching-tool-org-team-building-model.html)
 * [Mentoring Developers: Best Practices From Uber - Interview With Gergely Orosz](https://codingsans.com/blog/mentoring-developers)
 * [One-on-ones are my most valuable meetings; here’s how I run them](https://medium.com/swlh/one-on-ones-are-my-most-valuable-meetings-heres-how-i-run-them-d9ae7c64dade)
-* \([https://ajahne.github.io/blog/leadership/2019/07/24/essential-meetings-to-have-with-your-people-as-a-manager.html\)\[](https://ajahne.github.io/blog/leadership/2019/07/24/essential-meetings-to-have-with-your-people-as-a-manager.html%29[)
-
-  Essential Meetings to Have With Your People as a Manager\]
-
+* [Essential Meetings to Have With Your People as a Manager](https://ajahne.github.io/blog/leadership/2019/07/24/essential-meetings-to-have-with-your-people-as-a-manager.html)
 * [1 on 1 Meeting Questions](https://github.com/VGraupera/1on1-questions) - An extensive crowdsourced list.
 
 ## Communicating
@@ -64,6 +61,7 @@ A few links for anyone thinking of hopping to the management track:
 * [The five types of communication problems that destroy company morale](https://qz.com/work/1587170/the-five-types-of-communication-problems-that-destroy-company-morale/)
 * [The Secret to Being a Better Boss: Create a “How to Work With Me” Manual](https://www.themuse.com/advice/how-to-be-a-better-leader-manager-user-manual)
 * [BLUF: The Military Standard That Can Make Your Writing More Powerful](https://www.animalz.co/blog/bottom-line-up-front/)
+* [How (some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/)
 
 ## Ladders, Evaluations, Promotions and Related Topics
 
@@ -117,6 +115,8 @@ A few links for anyone thinking of hopping to the management track:
 * [Reworkin](https://reworkin.com/) - Social networking site for remote workers.
 * [Open Offices Inhibit Remote Work](https://blog.eldrid.ge/2020/02/18/open-offices-inhibiut-remote-work/)
 * [Dear Founder: So You’re Thinking About Building a Remote Team](https://www.paperplanes.de/2020/2/28/dear-founder-so-you-re-thinking-about-building-a-remote-team.html)
+* [Working from home – things no one talks about](https://www.timo-zimmermann.de/2020/03/working-from-home-things-no-one-talks-about/)
+* [Remote Work Can (And Does) Boost Employee Productivity](https://slab.com/blog/remote-work-productivity/)
 
 ## Staying Technical
 
@@ -182,4 +182,5 @@ A few links for anyone thinking of hopping to the management track:
 * [Markers of Progress in Incident Analysis](https://www.adaptivecapacitylabs.com/blog/2019/11/20/markers-of-progress-incident-analysis/) - How do you know you're actually learning from experience?
 * [Lessons on leadership: The 10 most impactful lessons I’ve learned from 1,000+ managers in 2019](https://knowyourteam.com/blog/2019/12/18/lessons-on-leadership-the-10-most-impactful-lessons-ive-learned-from-1000-managers-in-2019/)
 * [How to build your company's engineering brand.](https://lethain.com/eng-brand/)
+* [Lessons learned managing the GitLab Data team](https://about.gitlab.com/blog/2020/02/10/lessons-learned-as-data-team-manager/) - Reflecting on a year of management
 

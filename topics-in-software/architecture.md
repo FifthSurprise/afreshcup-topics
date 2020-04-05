@@ -16,10 +16,12 @@
 ## Front-end/UI
 
   * [Prisma](https://www.prisma.io/) - Generalized GraphQL/REST middleware layer in JS. Potentially useful for combining responses from multiple microservices.
+  * [How to make your web app work offline](https://adlrocha.substack.com/p/adlrocha-how-to-make-your-web-app) - "Service workers, caches, IndexedDB and PWA."
 
 ## Back-end
 
   * [On Sharding](https://www.tbray.org/ongoing/When/201x/2019/09/25/On-Sharding)
+  * [Eventing Facets](https://www.tbray.org/ongoing/When/202x/2020/03/07/Eventing-Facets) - Excellent series on eventing and messaging services from Tim Bray.
 
 ## Operations
 

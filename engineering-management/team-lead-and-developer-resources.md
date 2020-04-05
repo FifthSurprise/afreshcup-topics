@@ -95,6 +95,7 @@ Developers mentoring other developers: practices I've seen work well]]
   * [The ONE chart every developer MUST understand ](https://dev.to/bosepchuk/the-one-chart-every-developer-must-understand-2db9) - "This chart says that most teams could deliver their software projects sooner if they focused more effort on defect prevention, early defect removal, and other quality issues."
   * [How to Make Things High-Quality](https://www.linkedin.com/pulse/how-make-things-high-quality-julie-zhuo/) - If it's not worth doing well, it's not worth doing at all.
   * [Technical Debt is Soul-crushing](https://codeahoy.com/2020/01/25/technical-debt/)
+  * [Tech Debt and the Pragmatic Middle Ground](https://blog.pragmaticengineer.com/tech-debt/)
 
 ## Technical Leadership
 
