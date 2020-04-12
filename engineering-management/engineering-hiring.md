@@ -29,6 +29,7 @@
   * [The Experience Paradox](https://codemanship.wordpress.com/2020/02/29/the-experience-vs-age-paradox/)
   * [The Science Behind Making Software Engineering Interviews Truly Predictive of Job Performance](https://www.qualified.io/blog/posts/truly-predictive-software-engineering-interviews)
   * [Thoughts on Recruiting](https://markmcgranaghan.com/recruiting)
+  * [Take-home vs whiteboard coding: The problem is bad interviews](https://andrewrondeau.com/blog/2020/04/take-home-vs-whiteboard-coding-the-problem-is-bad-interviews)
 
 
 ### Take-Homes and Challenges

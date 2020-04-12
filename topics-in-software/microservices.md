@@ -227,34 +227,23 @@ Some links that might be useful as we move forward into a microservicesworld:
   * [Micro Frontends Architecture](https://medium.com/notonlycss/micro-frontends-architecture-1407092403d5)
   * [Microfrontends For The Win!](https://florian-rappl.de/News/Page/408/microfrontends-for-the-win)
 
-
-
-
 ## Testing Tools
-
 
   * [Insomnia](https://insomnia.rest/)
   * [Paw](https://paw.cloud/client)
   * [Pumba](https://github.com/alexei-led/pumba) - Chaos testing for Docker containers
-
 
 ## Other Tools
 
   * [Skipper](https://github.com/zalando/skipper) - Router & reverse proxy for microservice composition
   * [Mockoon](https://github.com/255kb/mockoon) - "Mockoon is a free and open source local server/API mocking tool built with Electron"
 
-
-
-
 ## Conference Talks
-
 
   * [Migrating to Microservices Databases](https://www.youtube.com/watch?v=tRteUhd9eAI) - patterns for zero-downtime database schema changes, back & forward compatibility, how to split the database
   * [SLO BURN](https://docs.google.com/presentation/d/1GsOYK5UGjQEgl2rNjSI7TAapkfYsNje87NBr37K36gE/edit#slide=id.g3a081004a6_0_0) - A Google SRE discusses SLOs and error budgets and monitoring and related topics.
 
-
 ## Books
-
 
   * [The Tao of Microservices](https://www.manning.com/books/the-tao-of-microservices) - Excellent.
   * [Migrating to Microservice Databases: From Relational Monolith to Distributed Data](https://developers.redhat.com/promotions/migrating-to-microservice-databases/) - Free, requires registration with Red Hat Developer Program. Good discussions of zero-downtime migration patterns and ways to integrate data across multiple services. Strongly recommends one database per microservice.
@@ -264,9 +253,12 @@ Some links that might be useful as we move forward into a microservicesworld:
   * [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
   * [Production-Ready Microservices](https://www.amazon.com/Production-Ready-Microservices-Standardized-Engineering-Organization/dp/1491965975)
   * [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/en-us/) - O'Reilly ebook, free copy from Microsoft with email registration
-
+  * [Practical Microservices: Build Event-Driven Architectures with Event Sourcing and CQRS](https://pragprog.com/book/egmicro/practical-microservices)
 
 ## Training
 
-
   * [An introduction to distributed systems](https://github.com/aphyr/distsys-class) - Course notes from a class that covers a lot of ground
+
+## Humor
+
+  * [Microservices](https://www.youtube.com/watch?v=y8OnoxKotPQ) - Three-minute video sketch from KRAZAM.

@@ -117,6 +117,7 @@ A few links for anyone thinking of hopping to the management track:
 * [Dear Founder: So You’re Thinking About Building a Remote Team](https://www.paperplanes.de/2020/2/28/dear-founder-so-you-re-thinking-about-building-a-remote-team.html)
 * [Working from home – things no one talks about](https://www.timo-zimmermann.de/2020/03/working-from-home-things-no-one-talks-about/)
 * [Remote Work Can (And Does) Boost Employee Productivity](https://slab.com/blog/remote-work-productivity/)
+* [How We Work](https://www.git-tower.com/blog/how-we-work/) - Report on five years of being fully remote from fournova.
 
 ## Staying Technical
 
