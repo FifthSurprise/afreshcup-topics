@@ -30,6 +30,7 @@
   * [The Science Behind Making Software Engineering Interviews Truly Predictive of Job Performance](https://www.qualified.io/blog/posts/truly-predictive-software-engineering-interviews)
   * [Thoughts on Recruiting](https://markmcgranaghan.com/recruiting)
   * [Take-home vs whiteboard coding: The problem is bad interviews](https://andrewrondeau.com/blog/2020/04/take-home-vs-whiteboard-coding-the-problem-is-bad-interviews)
+  * [The software industry's greatest sin: hiring](https://www.neilwithdata.com/developer-hiring)
 
 
 ### Take-Homes and Challenges
@@ -48,6 +49,8 @@
   * [What to ask during your interview](https://www.mikebz.com/2019/09/what-to-ask-during-your-interview.html) - Another selection of reverse interview questions.
   * [Job negotiation for programmers: the basic principles](https://codewithoutrules.com/2019/11/27/job-negotiation-for-programmers/)
   * [Tech Hiring Managers Answer Common Behavioral Interview Questions](https://medium.com/better-programming/hiring-managers-share-how-to-answer-behavioral-interview-questions-e78e0e9df572)
+  * [Questions to ask at the end of a technical interview](https://smalldata.tech/blog/2017/03/27/questions-to-ask-at-the-end-of-a-technical-interview)
+  * [Questions To Ask During An Interview As a Developer](https://github.com/Phantas0s/questions-job-interview)
 
 ## Books
 

@@ -29,6 +29,10 @@ description: Mostly (but not entirely) AWS Lambda related
   * [AWS Serverless WebSockets — Introduction Around the Pitfalls](https://medium.com/@jlaitio/aws-serverless-websockets-introduction-around-the-pitfalls-f623518635df)
   * [AWS Lambda the CLI Way](https://github.com/nsriram/lambda-the-cli-way) - In-depth tutorial that does everything from the command line.
 
+### OpenFaaS
+
+  * [Meet faasd - portable Serverless without the complexity of Kubernetes](https://www.openfaas.com/blog/introducing-faasd/)
+
 ### Development
 
   * [Serverless Functions With WebAssembly Modules ](https://dev.to/ibmdeveloper/serverless-functions-with-webassembly-modules-343e)
@@ -58,7 +62,6 @@ description: Mostly (but not entirely) AWS Lambda related
   * [Fighting vendor lock-in and designing testable serverless apps using hexagonal architecture](https://vacationtracker.io/blog/big-bad-serverless-vendor-lock-in/)
 
 ### Other Tools
-
 
   * [Lambda Warmer](https://github.com/jeremydaly/lambda-warmer) - Optimizer for Lambda cold starts
   * [Announcing Ruby build support for AWS SAM CLI](https://aws.amazon.com/blogs/developer/announcing-ruby-build-support-for-aws-sam-cli/)

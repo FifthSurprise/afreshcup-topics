@@ -47,7 +47,6 @@ Some links that might be useful as we move forward into a microservicesworld:
 
 ### Keeping a Monolith
 
-
   * [Goodbye Microservices: From 100s of problem children to 1 superstar](https://segment.com/blog/goodbye-microservices/) - Segment backed away from microservices.
   * [To Microservice or Monolith, that is the question...](https://reinteractive.com/posts/366-to-microservice-or-monolith-that-is-the-question) - "unless you have development resources spilling over the gunnels, stick with a monolith."
   * [Well Architected Monoliths are OK](https://segment.com/blog/goodbye-microservices/)
@@ -62,7 +61,6 @@ Some links that might be useful as we move forward into a microservicesworld:
   * [The dark side of microservices](https://kelda.io/blog/the-dark-side-of-microservices/)
 
 ### Decomposing into Microservices
-
 
   * [Break that big ball of mud!](https://particular.net/blog/break-that-big-ball-of-mud)
   * [The great microservices migration](http://blog.d3in.org/post/166567274071/the-great-microservices-migration) - Slide deck based on Uber's experience
@@ -83,15 +81,14 @@ Some links that might be useful as we move forward into a microservicesworld:
   * [How to sleep at night having a cloud service: common Architecture Do's ](https://danielsada.tech/blog/cloud-services-dos/)
   * [Should this be a microservice?](https://www.mikebz.com/2019/12/should-this-be-microservice.html)
   * [Data-Oriented Architecture](https://blog.eyas.sh/2020/03/data-oriented-architecture/) - "In data-oriented architecture, a monolithic data store is the sole source of state in the system, which is being acted on by loosely-coupled, stateless microservices."
+  * [Untangling Microservices, or Balancing Complexity in Distributed Systems](https://vladikk.com/2020/04/09/untangling-microservices/) - Avoiding the distributed big ball of mud
 
 ### Containerization
-
 
   * [A Practical Introduction To Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/) - From Red Hat
 
 
 ### Frameworks
-
 
   * [Eventide](https://eventide-project.org/) - A full framework for event-sourced autonomous services in Ruby
   * [Rails Event Store](https://railseventstore.org/) - "The open-source implementation of an Event Store for Ruby and Rails"
@@ -100,7 +97,6 @@ Some links that might be useful as we move forward into a microservicesworld:
 
 
 ### Event Sourcing
-
 
   * [Event Sourcing Made Simple](https://kickstarter.engineering/event-sourcing-made-simple-4a2625113224)
   * [What They Don't Tell You About Event Sourcing](https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a)
@@ -115,7 +111,6 @@ Some links that might be useful as we move forward into a microservicesworld:
 
 ### APIs & Gateways
 
-
   * [Design Patterns in API Gateways and Microservices](https://blog.codeship.com/design-patterns-in-api-gateways-and-microservices/) - With a list of cross-cutting concerns
   * [Rate Limiting for API gateways](https://blog.getambassador.io/rate-limiting-for-api-gateways-892310a2da02)
   * [Gubernator: Cloud-native distributed rate limiting for microservices](https://www.mailgun.com/blog/gubernator-cloud-native-distributed-rate-limiting-microservices) - An open-source tool from Mailgun.
@@ -128,7 +123,6 @@ Some links that might be useful as we move forward into a microservicesworld:
 
 
 ### Messaging
-
 
   * [Microservices Messaging: Why REST Isn’t Always the Best Choice](https://blog.codeship.com/microservices-messaging-rest-isnt-always-best-choice/)
   * [Messages on Rails Part 1 - Introduction to Kafka and RabbitMQ](https://karolgalanciak.com/blog/2019/02/24/messages-on-rails-part-1-introduction-to-kafka-and-rabbitmq/)
@@ -153,9 +147,7 @@ Some links that might be useful as we move forward into a microservicesworld:
   * [Announcing Maesh, a Lightweight and Simpler Service Mesh Made by the Traefik Team](https://blog.containo.us/announcing-maesh-a-lightweight-and-simpler-service-mesh-made-by-the-traefik-team-cb866edc6f29)
   * [The Service Mesh: What Every Software Engineer Needs to Know about the World's Most Over-Hyped Technology](https://servicemesh.io/) - From one of the original Linkerd developers.
 
-
 ### Patterns
-
 
   * [Future-Proofing Backend Services with GraphQL, PostgreSQL and Docker (Part 1)](https://medium.com/@jrryjcksn/future-proofing-backend-services-with-graphql-postgresql-and-docker-part-1-527bd6b1a59a)
   * [Every service is an island](https://deliveroo.engineering/2017/03/27/every-service-is-an-island.html) - Design pattern to help prevent cascading failures
@@ -164,9 +156,7 @@ Some links that might be useful as we move forward into a microservicesworld:
   * [The architecture of declarative configuration management](https://blog.nelhage.com/post/declarative-configuration-management/)
   * [Application integration patterns for microservices: Fan-out strategies](https://aws.amazon.com/blogs/compute/application-integration-patterns-for-microservices-fan-out-strategies/) - AWS-specific architectural advice
 
-
 ### Testing
-
 
   * [Testing Microservices, the sane way](https://medium.com/@copyconstruct/testing-microservices-the-sane-way-9bb31d158c16) - One of the best online articles I've ever read
   * [Testing of Microservices](https://labs.spotify.com/2018/01/11/testing-of-microservices/) - Spotify engineers argue for testing edge behavior in isolation
@@ -184,7 +174,6 @@ Some links that might be useful as we move forward into a microservicesworld:
    * [pact-ruby](https://github.com/pact-foundation/pact-ruby)
 
 
-
 ### Performance
 
 
@@ -194,7 +183,6 @@ Some links that might be useful as we move forward into a microservicesworld:
 
 
 ### Security
-
 
   * [Securing Microservices (Part I)](https://medium.facilelogin.com/securing-microservices-with-oauth-2-0-jwt-and-xacml-d03770a9a838)
   * [Learn how to use JSON Web Tokens (JWT) for Authentication](https://github.com/dwyl/learn-json-web-tokens/blob/master/README.md)

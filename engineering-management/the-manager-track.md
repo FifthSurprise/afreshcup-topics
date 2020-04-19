@@ -75,6 +75,14 @@ A few links for anyone thinking of hopping to the management track:
 * [Individual Performance Appraisals, Just Say No! ](https://holub.com/individual-performance-appraisals-just-say-no/) - If the team does the work, why are you grading the people?
 * [How I Do \(Hopefully\) Fair Performance Reviews for Software Developers](https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/)
 
+## On-Call/Incident Management
+
+* [When Does an Investigation End?](https://www.ryanfrantz.com/posts/when-does-an-investigation-end.html) - Thinking about incident follow-up.
+* [Making On-Call Not Suck](https://dev.to/molly_struve/making-on-call-not-suck-490)
+* [Don't follow the sun.](https://lethain.com/dont-follow-the-sun/)
+* [Incident Analysis and Chaos Engineering: Complementary Practices](https://www.learningfromincidents.io/blog/incident-analysis-and-chaos-engineering)
+* [Markers of Progress in Incident Analysis](https://www.adaptivecapacitylabs.com/blog/2019/11/20/markers-of-progress-incident-analysis/) - How do you know you're actually learning from experience?
+
 ## Remote Teams
 
 * [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - A big curated list of resources for remote jobs.
@@ -118,6 +126,9 @@ A few links for anyone thinking of hopping to the management track:
 * [Working from home – things no one talks about](https://www.timo-zimmermann.de/2020/03/working-from-home-things-no-one-talks-about/)
 * [Remote Work Can (And Does) Boost Employee Productivity](https://slab.com/blog/remote-work-productivity/)
 * [How We Work](https://www.git-tower.com/blog/how-we-work/) - Report on five years of being fully remote from fournova.
+* [Working Remotely is a Skill](https://thoughtbot.com/blog/working-remotely-is-a-skill)
+* [The Coming Mental Health Crisis as Remote Working Surges](https://www.ozy.com/the-new-and-the-next/the-coming-mental-health-toll-on-remote-workers/298823/)
+* [Zippia Poll: Half of American workers would rather work from home forever](https://www.zippia.com/advice/coronavirus-remote-work-survey/)
 
 ## Staying Technical
 
@@ -180,7 +191,6 @@ A few links for anyone thinking of hopping to the management track:
 * [Clearbit's approach to management](https://blog.clearbit.com/managers-handbook-tldr/)
 * [Lessons from Stripe](https://markmcgranaghan.com/lessons-from-stripe): What one manager learned about ambition, optimism, and recruiting.
 * [Starting an Engineering Management Book Club](https://blog.danielna.com/starting-an-engineering-management-book-club/)
-* [Markers of Progress in Incident Analysis](https://www.adaptivecapacitylabs.com/blog/2019/11/20/markers-of-progress-incident-analysis/) - How do you know you're actually learning from experience?
 * [Lessons on leadership: The 10 most impactful lessons I’ve learned from 1,000+ managers in 2019](https://knowyourteam.com/blog/2019/12/18/lessons-on-leadership-the-10-most-impactful-lessons-ive-learned-from-1000-managers-in-2019/)
 * [How to build your company's engineering brand.](https://lethain.com/eng-brand/)
 * [Lessons learned managing the GitLab Data team](https://about.gitlab.com/blog/2020/02/10/lessons-learned-as-data-team-manager/) - Reflecting on a year of management
