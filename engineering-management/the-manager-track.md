@@ -129,6 +129,8 @@ A few links for anyone thinking of hopping to the management track:
 * [Working Remotely is a Skill](https://thoughtbot.com/blog/working-remotely-is-a-skill)
 * [The Coming Mental Health Crisis as Remote Working Surges](https://www.ozy.com/the-new-and-the-next/the-coming-mental-health-toll-on-remote-workers/298823/)
 * [Zippia Poll: Half of American workers would rather work from home forever](https://www.zippia.com/advice/coronavirus-remote-work-survey/)
+* [Remote Software Developers Earn 22% More Than Non-Remote Developers](https://whoisnnamdi.com/remote-software-developers-earn-more/)
+* [The Remote Work Report by GitLab: The Future of Work is Remote](https://about.gitlab.com/remote-work-report/)
 
 ## Staying Technical
 

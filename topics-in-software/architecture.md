@@ -12,6 +12,7 @@
   * [Software Architecture is Overrated, Clear and Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/) - I think this is more of an argument against "architecture theater" than appropriate architecture.
   * [What is a Software Architect?](https://github.com/justinamiller/SoftwareArchitect) - One architect's view & study guide.
   * [The Myth of Architect as Chess Master](https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a) - What architects are not.
+  [The Elephant in the Architecture](https://martinfowler.com/articles/value-architectural-attribute.html) - "hy business value should be treated as an architectural attribute"
 
 ## Front-end/UI
 
@@ -22,6 +23,7 @@
 
   * [On Sharding](https://www.tbray.org/ongoing/When/201x/2019/09/25/On-Sharding)
   * [Eventing Facets](https://www.tbray.org/ongoing/When/202x/2020/03/07/Eventing-Facets) - Excellent series on eventing and messaging services from Tim Bray.
+  * [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
 
 ## Operations
 
