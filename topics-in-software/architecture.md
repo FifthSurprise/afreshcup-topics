@@ -12,7 +12,7 @@
   * [Software Architecture is Overrated, Clear and Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/) - I think this is more of an argument against "architecture theater" than appropriate architecture.
   * [What is a Software Architect?](https://github.com/justinamiller/SoftwareArchitect) - One architect's view & study guide.
   * [The Myth of Architect as Chess Master](https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a) - What architects are not.
-  [The Elephant in the Architecture](https://martinfowler.com/articles/value-architectural-attribute.html) - "hy business value should be treated as an architectural attribute"
+  * [The Elephant in the Architecture](https://martinfowler.com/articles/value-architectural-attribute.html) - "hy business value should be treated as an architectural attribute"
 
 ## Front-end/UI
 
