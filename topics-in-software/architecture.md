@@ -29,6 +29,7 @@
 
   * [Evolving Regional Evacuation](https://medium.com/netflix-techblog/evolving-regional-evacuation-69e6cc1d24c6) - How Netflx manages resilience at scale.
   * [Observations on Observability](https://blog.colinbreck.com/observations-on-observability/)
+  * [Beginners guide to gateways and proxies](https://www.learncloudnative.com/blog/2020-04-25-beginners-guide-to-gateways-proxies/)
 
 ## AWS
 

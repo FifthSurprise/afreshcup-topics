@@ -51,6 +51,8 @@
   * [Tech Hiring Managers Answer Common Behavioral Interview Questions](https://medium.com/better-programming/hiring-managers-share-how-to-answer-behavioral-interview-questions-e78e0e9df572)
   * [Questions to ask at the end of a technical interview](https://smalldata.tech/blog/2017/03/27/questions-to-ask-at-the-end-of-a-technical-interview)
   * [Questions To Ask During An Interview As a Developer](https://github.com/Phantas0s/questions-job-interview)
+  * [Career advice for people with bad luck](https://chiefofstuff.substack.com/p/career-advice-for-people-with-bad)
+  * [Questions to the Company in a Programming Job Interview](https://medium.com/@philpirj/questions-to-ask-in-a-programming-job-interview-70b9ed49c53e?source=friends_link&sk=a2c5fad4864cc46bb05f5558f836343d)
 
 ## Books
 

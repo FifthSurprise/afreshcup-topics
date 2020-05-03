@@ -59,6 +59,7 @@ Some links that might be useful as we move forward into a microservicesworld:
   * [Istio as an Example of When Not to Do Microservices](https://blog.christianposta.com/microservices/istio-as-an-example-of-when-not-to-do-microservices/)
   * [Monoliths are the future](https://changelog.com/posts/monoliths-are-the-future)
   * [The dark side of microservices](https://kelda.io/blog/the-dark-side-of-microservices/)
+  * [To Microservices and Back Again - Why Segment Went Back to a Monolith](https://www.infoq.com/news/2020/04/microservices-back-again/)
 
 ### Decomposing into Microservices
 
@@ -94,6 +95,7 @@ Some links that might be useful as we move forward into a microservicesworld:
   * [Rails Event Store](https://railseventstore.org/) - "The open-source implementation of an Event Store for Ruby and Rails"
   * [Announcing Distributed Application Runtime (Dapr), an open source project to make it easier for every developer to build microservice applications](https://cloudblogs.microsoft.com/opensource/2019/10/16/announcing-dapr-open-source-project-build-microservice-applications/) - Framework from Microsoft
   * [Go Micro](https://github.com/micro/go-micro) - "Go Micro is a framework for microservice development." Written in Go, of course.
+  * [Golang, Gin & MongoDB – Building microservices easily](https://blog.codecentric.de/en/2020/04/golang-gin-mongodb-building-microservices-easily/)
 
 
 ### Event Sourcing
@@ -155,6 +157,7 @@ Some links that might be useful as we move forward into a microservicesworld:
   * [The Circuit Breaker Pattern](https://apiumhub.com/tech-blog-barcelona/the-circuit-breaker-pattern/)
   * [The architecture of declarative configuration management](https://blog.nelhage.com/post/declarative-configuration-management/)
   * [Application integration patterns for microservices: Fan-out strategies](https://aws.amazon.com/blogs/compute/application-integration-patterns-for-microservices-fan-out-strategies/) - AWS-specific architectural advice
+  * [Distributed transactions are Not Micro-services](https://www.talentica.com/blogs/distributed-transactions-are-not-micro-services/)
 
 ### Testing
 

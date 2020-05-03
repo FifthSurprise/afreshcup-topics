@@ -23,6 +23,7 @@ A few links for anyone thinking of hopping to the management track:
 * [Flavors of Engineering Management](http://blog.benjamin-encz.de/post/flavors-of-engineering-management/)
 * [How to Lead](https://blog.brunomiranda.com/building-a-distributed-engineering-team-85d281b9b1c)
 * [What is an Engineering Manager?](https://aws.amazon.com/blogs/startups/what-is-an-engineering-manager/)
+* [Manager's Playbook](https://github.com/ksindi/managers-playbook) - A collection of "heuristics for effective management."
 
 ## Career Paths
 
