@@ -28,3 +28,8 @@
 * [SDLC \(Agile and otherwise\)](topics-in-software/sdlc-agile-and-otherwise.md)
 * [Security](topics-in-software/security.md)
 
+## Healthcare Bookshelf
+
+* [Health Informatics](healthcare-bookshelf/health-informatics.md)
+* [Patient Safety and Healthcare Quality](healthcare-bookshelf/patient-safety-healthcare-quality.md)
+
