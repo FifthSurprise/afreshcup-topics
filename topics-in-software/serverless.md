@@ -28,6 +28,7 @@ description: Mostly (but not entirely) AWS Lambda related
   * [Designing durable serverless apps with DLQs for Amazon SNS, Amazon SQS, AWS Lambda](https://aws.amazon.com/blogs/compute/designing-durable-serverless-apps-with-dlqs-for-amazon-sns-amazon-sqs-aws-lambda/)
   * [AWS Serverless WebSockets — Introduction Around the Pitfalls](https://medium.com/@jlaitio/aws-serverless-websockets-introduction-around-the-pitfalls-f623518635df)
   * [AWS Lambda the CLI Way](https://github.com/nsriram/lambda-the-cli-way) - In-depth tutorial that does everything from the command line.
+  * [The Serverless Software Development Lifecycle](https://www.trek10.com/blog/the-serverless-software-development-lifecycle) - "A quick look at building, testing, and deploying AWS Lambda based apps and how to set yourself up for success."
 
 ### OpenFaaS
 

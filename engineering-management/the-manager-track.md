@@ -132,6 +132,8 @@ A few links for anyone thinking of hopping to the management track:
 * [Zippia Poll: Half of American workers would rather work from home forever](https://www.zippia.com/advice/coronavirus-remote-work-survey/)
 * [Remote Software Developers Earn 22% More Than Non-Remote Developers](https://whoisnnamdi.com/remote-software-developers-earn-more/)
 * [The Remote Work Report by GitLab: The Future of Work is Remote](https://about.gitlab.com/remote-work-report/)
+* [Why does writing matter in remote work?](http://www.timcasasola.com/blog/writing)
+* [Why are some people better at working from home than others?](https://www.bbc.com/worklife/article/20200506-why-are-some-people-better-at-working-from-home-than-others)
 
 ## Staying Technical
 

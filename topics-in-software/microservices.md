@@ -158,6 +158,7 @@ Some links that might be useful as we move forward into a microservicesworld:
   * [The architecture of declarative configuration management](https://blog.nelhage.com/post/declarative-configuration-management/)
   * [Application integration patterns for microservices: Fan-out strategies](https://aws.amazon.com/blogs/compute/application-integration-patterns-for-microservices-fan-out-strategies/) - AWS-specific architectural advice
   * [Distributed transactions are Not Micro-services](https://www.talentica.com/blogs/distributed-transactions-are-not-micro-services/)
+  * [Deleting data distributed throughout your microservices architecture](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html)
 
 ### Testing
 

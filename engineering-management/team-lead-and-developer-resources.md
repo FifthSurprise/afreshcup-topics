@@ -80,6 +80,7 @@ Developers mentoring other developers: practices I've seen work well]]
   * [Results vs. Hours: creating a results-focused workplace](https://www.friday.app/results-first-workplace)
   * [Managing product requests from customer-facing teams: top 2 things](http://brettcvz.com/posts/53-managing-product-requests-from-customerfacing-teams-top-2-things) - "A simple technique to maintain a reasonable backlog while making customer-facing teams feel empowered"
   * [15 Questions to Ask at the Start of a New Software Project ](https://spin.atomicobject.com/2020/01/24/new-software-project-questions/)
+  * [Driving engineers to an arbitrary date is a value destroying mistake](https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49)
 
 ## Self-organizing Teams
 
