@@ -53,6 +53,7 @@
   * [Questions To Ask During An Interview As a Developer](https://github.com/Phantas0s/questions-job-interview)
   * [Career advice for people with bad luck](https://chiefofstuff.substack.com/p/career-advice-for-people-with-bad)
   * [Questions to the Company in a Programming Job Interview](https://medium.com/@philpirj/questions-to-ask-in-a-programming-job-interview-70b9ed49c53e?source=friends_link&sk=a2c5fad4864cc46bb05f5558f836343d)
+  * [My Mid-Career Job-Hunt: A Data Point for Job-Seeking Devs](https://www.philosophicalhacker.com/post/data-point-for-job-seeking-devs/)
 
 ## Books
 

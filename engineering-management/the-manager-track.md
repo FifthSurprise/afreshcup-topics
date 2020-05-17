@@ -134,6 +134,8 @@ A few links for anyone thinking of hopping to the management track:
 * [The Remote Work Report by GitLab: The Future of Work is Remote](https://about.gitlab.com/remote-work-report/)
 * [Why does writing matter in remote work?](http://www.timcasasola.com/blog/writing)
 * [Why are some people better at working from home than others?](https://www.bbc.com/worklife/article/20200506-why-are-some-people-better-at-working-from-home-than-others)
+* [Virtual team building: How to build trust in a remote team beyond games and activities](https://knowyourteam.com/blog/2020/05/10/virtual-team-building-how-to-build-trust-in-a-remote-team/)
+* [Encouraging a Culture of Written Communication](https://www.mcls.io/blog/encouraging-a-culture-of-written-communication)
 
 ## Staying Technical
 
