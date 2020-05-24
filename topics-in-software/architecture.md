@@ -14,6 +14,7 @@
   * [The Myth of Architect as Chess Master](https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a) - What architects are not.
   * [The Elephant in the Architecture](https://martinfowler.com/articles/value-architectural-attribute.html) - "hy business value should be treated as an architectural attribute"
   * [Self-Contained Systems](https://scs-architecture.org/index.html) - A middle path between monolith and microservice.
+  * [Architecture Jams: a Collaborative Way of Designing Software](https://blog.pragmaticengineer.com/software-architecture-jams/)
 
 ## Front-end/UI
 
