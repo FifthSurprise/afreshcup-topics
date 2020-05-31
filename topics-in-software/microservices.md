@@ -190,12 +190,14 @@ Some links that might be useful as we move forward into a microservicesworld:
 ### Security
 
   * [Securing Microservices (Part I)](https://medium.facilelogin.com/securing-microservices-with-oauth-2-0-jwt-and-xacml-d03770a9a838)
+  * [JWT](https://jwt.io/): "JWT.IO allows you to decode, verify and generate JWT."
   * [Learn how to use JSON Web Tokens (JWT) for Authentication](https://github.com/dwyl/learn-json-web-tokens/blob/master/README.md)
   * [Micro-services Architecture with Oauth2 and JWT – Part 1 – Overview](https://www.kaper.com/cloud/micro-services-architecture-with-oauth2-and-jwt-part-1-overview/)
   * [Why JWTs Suck as Session Tokens](https://developer.okta.com/blog/2017/08/17/why-jwts-suck-as-session-tokens)
   * [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist): "Checklist of the most important security countermeasures when designing, testing, and releasing your API."
   * [How to think about Zero Trust architectures on AWS](https://aws.amazon.com/blogs/publicsector/how-to-think-about-zero-trust-architectures-on-aws/)
   * [JWT is Awesome: Here's Why](https://thehftguy.com/2020/02/18/jwt-is-awesome-heres-why/)
+  * [loginsrv](https://github.com/tarent/loginsrv) - "loginsrv is a standalone minimalistic login server providing a JWT login for multiple login backends."
 
 ### Deployment
 

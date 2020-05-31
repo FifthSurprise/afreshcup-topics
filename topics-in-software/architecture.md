@@ -1,7 +1,5 @@
 # Architecture
 
-# Architecture
-
   * [Questions for a new technology](https://kellanem.com/notes/new-tech) - A framework for deciding when to bring something new into the stack. **Read this before following the cool kids down the latest rabbit hole.**
   * [The Agile Manifesto: A Software Architect's Perspective ](https://www.infoq.com/articles/architect-agile-manifesto/)
   * [Distributed systems vocabulary.](https://lethain.com/distributed-systems-vocabulary/)

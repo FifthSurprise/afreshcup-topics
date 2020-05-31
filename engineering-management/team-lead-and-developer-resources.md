@@ -43,6 +43,7 @@ Many of these are aimed specifically at team leads, but there are more general a
 Developers mentoring other developers: practices I've seen work well]]
   * [Heroes and Juniors: Increasing Engineering Team Velocity](https://medium.com/@bellmar/heroes-and-juniors-increasing-engineering-team-velocity-97ce6a59103e)
   * [Ten Principles for Growth as an Engineer](https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b)
+  * [How to Deal With a Tech Lead Who Doesn’t Give You Enough Feedback](https://builtin.com/software-engineering-perspectives/tech-lead-feedback) - Don't be that lead.
 
 ## OKRs
 
@@ -86,6 +87,7 @@ Developers mentoring other developers: practices I've seen work well]]
 ## Self-organizing Teams
 
   * [Designing Autonomous Teams and Services](http://www.oreilly.com/programming/free/designing-autonomous-teams-and-services.csp) - "Modern, high-performing organizations employ continuous discovery and delivery to develop better products faster than their competitors. They are constantly running experiments to discover innovative new ways to solve customer problems, and they build high-speed engineering capabilities to deliver value every day, creating ultra-short customer feedback cycles."
+  * [Habits of High-Functioning Teams](https://deniseyu.io/2020/05/23/habits-of-high-performing-teams.html)
 
 ## Technical Debt
 

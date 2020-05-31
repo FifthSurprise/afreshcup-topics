@@ -136,6 +136,7 @@ A few links for anyone thinking of hopping to the management track:
 * [Why are some people better at working from home than others?](https://www.bbc.com/worklife/article/20200506-why-are-some-people-better-at-working-from-home-than-others)
 * [Virtual team building: How to build trust in a remote team beyond games and activities](https://knowyourteam.com/blog/2020/05/10/virtual-team-building-how-to-build-trust-in-a-remote-team/)
 * [Encouraging a Culture of Written Communication](https://www.mcls.io/blog/encouraging-a-culture-of-written-communication)
+* [Remote Work Means Anyone Can Take Your Job](https://marker.medium.com/remote-workers-just-outsourced-themselves-3f771f9d1529)
 
 ## Staying Technical
 

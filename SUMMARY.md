@@ -25,6 +25,7 @@
 * [Serverless](topics-in-software/serverless.md)
 * [Design \(UI and otherwise\)](topics-in-software/design-ui-and-otherwise.md)
 * [Microservices](topics-in-software/microservices.md)
+* [GraphQL](topics-in-software/graphql.md)
 * [SDLC \(Agile and otherwise\)](topics-in-software/sdlc-agile-and-otherwise.md)
 * [Security](topics-in-software/security.md)
 
