@@ -53,6 +53,7 @@ A few links for anyone thinking of hopping to the management track:
 * [One-on-ones are my most valuable meetings; here’s how I run them](https://medium.com/swlh/one-on-ones-are-my-most-valuable-meetings-heres-how-i-run-them-d9ae7c64dade)
 * [Essential Meetings to Have With Your People as a Manager](https://ajahne.github.io/blog/leadership/2019/07/24/essential-meetings-to-have-with-your-people-as-a-manager.html)
 * [1 on 1 Meeting Questions](https://github.com/VGraupera/1on1-questions) - An extensive crowdsourced list.
+* [121 One-on-one Questions](https://soapboxhq.com/blog/meetings/121-questions-for-one-on-one-meetings)
 
 ## Communicating
 
@@ -63,6 +64,7 @@ A few links for anyone thinking of hopping to the management track:
 * [The Secret to Being a Better Boss: Create a “How to Work With Me” Manual](https://www.themuse.com/advice/how-to-be-a-better-leader-manager-user-manual)
 * [BLUF: The Military Standard That Can Make Your Writing More Powerful](https://www.animalz.co/blog/bottom-line-up-front/)
 * [How (some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/)
+* [How to run effective meetings, and thrive](https://www.atlassian.com/blog/teamwork/how-to-run-effective-meetings)
 
 ## Ladders, Evaluations, Promotions and Related Topics
 
@@ -137,6 +139,7 @@ A few links for anyone thinking of hopping to the management track:
 * [Virtual team building: How to build trust in a remote team beyond games and activities](https://knowyourteam.com/blog/2020/05/10/virtual-team-building-how-to-build-trust-in-a-remote-team/)
 * [Encouraging a Culture of Written Communication](https://www.mcls.io/blog/encouraging-a-culture-of-written-communication)
 * [Remote Work Means Anyone Can Take Your Job](https://marker.medium.com/remote-workers-just-outsourced-themselves-3f771f9d1529)
+* [Stripe's remote engineering hub, one year in](https://stripe.com/blog/remote-hub-one-year)
 
 ## Staying Technical
 
