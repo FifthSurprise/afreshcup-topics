@@ -179,6 +179,7 @@ A few links for anyone thinking of hopping to the management track:
 * [How to stop micromanaging and give your team autonomy](https://www.geckoboard.com/blog/how-to-stop-micromanaging-and-give-your-team-autonomy/)
 * [Developer Burnout: How Can a Manager Spot It and Stop It](https://codingsans.com/blog/developer-burnout)
 * [It's Not All About You: Truly Empowering Your People](https://drodio.com/its-not-all-about-you-truly-empowering-your-people/)
+* [How to Avoid Mediocre Leadership in Trying Times])https://www.visualcapitalist.com/how-to-avoid-mediocre-leadership/
 
 ## Beyond First-Line Manager
 

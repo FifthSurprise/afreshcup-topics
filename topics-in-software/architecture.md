@@ -13,6 +13,7 @@
   * [The Elephant in the Architecture](https://martinfowler.com/articles/value-architectural-attribute.html) - "hy business value should be treated as an architectural attribute"
   * [Self-Contained Systems](https://scs-architecture.org/index.html) - A middle path between monolith and microservice.
   * [Architecture Jams: a Collaborative Way of Designing Software](https://blog.pragmaticengineer.com/software-architecture-jams/)
+  * [Your technology architecture and engineering organization should coevolve as your startup grows](https://www.abhishek-tiwari.com/your-technology-architecture-and-engineering-organization-should-coevolve-as-your-startup-grows/)
 
 ## Front-end/UI
 

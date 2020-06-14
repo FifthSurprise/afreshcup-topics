@@ -87,7 +87,7 @@ Some links that might be useful as we move forward into a microservicesworld:
 ### Containerization
 
   * [A Practical Introduction To Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/) - From Red Hat
-
+  * [Container technologies at Coinbase](https://blog.coinbase.com/container-technologies-at-coinbase-d4ae118dcb6c?gi=71cebd71bc0a) - "Why Kubernetes is not part of our stack"
 
 ### Frameworks
 
