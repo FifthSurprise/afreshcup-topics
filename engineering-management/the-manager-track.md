@@ -65,6 +65,7 @@ A few links for anyone thinking of hopping to the management track:
 * [BLUF: The Military Standard That Can Make Your Writing More Powerful](https://www.animalz.co/blog/bottom-line-up-front/)
 * [How (some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/)
 * [How to run effective meetings, and thrive](https://www.atlassian.com/blog/teamwork/how-to-run-effective-meetings)
+* [Announce bad news without accidentally lying to your team: avoid my damaging rookie mistakes](https://deliverydoubled.com/announce-bad-news-without-lying-to-your-team-avoid-my-damaging-rookie-mistakes/)
 
 ## Ladders, Evaluations, Promotions and Related Topics
 
@@ -77,6 +78,7 @@ A few links for anyone thinking of hopping to the management track:
 * [Job Titles & Levels: What Every Software Engineer Needs to Know](https://www.holloway.com/s/trh-job-titles-levels-fundamentals-for-software-engineering)
 * [Individual Performance Appraisals, Just Say No! ](https://holub.com/individual-performance-appraisals-just-say-no/) - If the team does the work, why are you grading the people?
 * [How I Do \(Hopefully\) Fair Performance Reviews for Software Developers](https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/)
+* [How Much Should You Pay Your Engineers to Ensure They Stick Around?](https://builtin.com/employee-engagement/how-much-engineer-pay)
 
 ## On-Call/Incident Management
 
@@ -140,6 +142,8 @@ A few links for anyone thinking of hopping to the management track:
 * [Encouraging a Culture of Written Communication](https://www.mcls.io/blog/encouraging-a-culture-of-written-communication)
 * [Remote Work Means Anyone Can Take Your Job](https://marker.medium.com/remote-workers-just-outsourced-themselves-3f771f9d1529)
 * [Stripe's remote engineering hub, one year in](https://stripe.com/blog/remote-hub-one-year)
+* [Working From Home – Cons and Pros](https://henrikwarne.com/2020/06/09/working-from-home-cons-and-pros/)
+* [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication/)
 
 ## Staying Technical
 
