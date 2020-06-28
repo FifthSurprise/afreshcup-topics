@@ -24,6 +24,7 @@ A few links for anyone thinking of hopping to the management track:
 * [How to Lead](https://blog.brunomiranda.com/building-a-distributed-engineering-team-85d281b9b1c)
 * [What is an Engineering Manager?](https://aws.amazon.com/blogs/startups/what-is-an-engineering-manager/)
 * [Manager's Playbook](https://github.com/ksindi/managers-playbook) - A collection of "heuristics for effective management."
+* [New manager training: The 4 concepts to teach](https://knowyourteam.com/blog/2020/06/21/new-manager-training-the-4-concepts-to-teach/)
 
 ## Career Paths
 
@@ -173,6 +174,7 @@ A few links for anyone thinking of hopping to the management track:
 * [Engineering Values](https://medium.engineering/engineering-values-7143c0db0bd6) - A list of values for one team at Medium
 * [Just Culture](https://suzettewoodward.org/2018/03/05/just-culture/) - A healthcare quality concept that more software organizations should be familiar with.
 * [How we align our goals](https://medium.com/the-caring-network-company/how-we-align-our-goals-85bfb19fe089)
+* [Stuff I've learned about Diversity, Equity and Inclusion over the past few years.](https://lethain.com/stuff-learned-about-dei-2020/)
 
 ## Your Influence
 

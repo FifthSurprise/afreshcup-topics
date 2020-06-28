@@ -139,6 +139,7 @@ Some links that might be useful as we move forward into a microservicesworld:
 ### Networking
 
   * [We built network isolation for 1,500 services to make Monzo more secure](https://monzo.com/blog/we-built-network-isolation-for-1-500-services/) - A tale of rearchitecting towards a zero-trust network.
+  * [Design Secure & Scalable VPC for Micro-service Architecture](https://medium.com/@ptuladhar3/design-secure-scalable-vpc-for-micro-service-architecture-1b58fbf128f4)
 
 ### Service Mesh
 
