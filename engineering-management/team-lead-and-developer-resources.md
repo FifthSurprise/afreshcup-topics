@@ -57,6 +57,8 @@ Developers mentoring other developers: practices I've seen work well]]
   * [OKRs Aren't Going to Fix Your Communication Issues](http://www.craigkerstiens.com/2019/03/29/okrs-arent-going-to-fix-your-communication/)
   * [OKRs from a development team’s perspective](https://zafulabs.com/2019/05/24/okrs-from-a-development-teams-perspective/)
   * [Alignment through OKR’s and Hypotheses](https://productcoalition.com/alignment-through-okrs-and-hypotheses-4f2b9bf94499?gi=1c6e834e41c3)
+  * [Why OKRs are broken and how can we fix it?](https://medium.com/@trials_eng_manager/why-okrs-are-broken-and-how-can-we-fix-it-6f736bd74516)
+  * [Ask the EM: Can You Really Measure Individual Developer Productivity?](https://blog.pragmaticengineer.com/can-you-measure-developer-productivity/)
 
 ## Pair Programming
 

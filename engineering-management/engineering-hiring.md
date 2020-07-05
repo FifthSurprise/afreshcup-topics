@@ -32,6 +32,7 @@
   * [Take-home vs whiteboard coding: The problem is bad interviews](https://andrewrondeau.com/blog/2020/04/take-home-vs-whiteboard-coding-the-problem-is-bad-interviews)
   * [The software industry's greatest sin: hiring](https://www.neilwithdata.com/developer-hiring)
   * [Storytelling tips for technical interviews](https://stanete.com/storytelling-tips-technical-interviews)
+  * [Tell candidates what to expect from your job interviews](https://jvns.ca/blog/2020/06/30/tell-candidates-what-to-expect-from-your-job-interviews/)
 
 
 ### Take-Homes and Challenges
