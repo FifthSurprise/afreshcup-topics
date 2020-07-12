@@ -8,3 +8,4 @@ I'm not sure I'm going to flesh out this section, but for my current job I'm nee
   * [Serverless AppSync Component](https://github.com/serverless-components/aws-app-sync) - "The AppSync Serverless Component allows you to easily and quickly deploy GraphQL APIs on AWS, and integrate them with AWS Lambda, DynamoDB & others."
   * [On GraphQL-to-SQL](https://productionreadygraphql.com/blog/2020-05-21-graphql-to-sql/) - A look at tools designed to prevent N+1 issues in GraphQL.
   * [How and why GraphQL will influence the SourceHut alpha](https://sourcehut.org/blog/2020-06-10-how-graphql-will-shape-the-alpha/) - A case study
+  * [RuboCop::GraphQL](https://github.com/DmitryTsepelev/rubocop-graphql) - "Rubocop extension for enforcing graphql-ruby best practices."

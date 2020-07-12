@@ -59,6 +59,7 @@ Developers mentoring other developers: practices I've seen work well]]
   * [Alignment through OKR’s and Hypotheses](https://productcoalition.com/alignment-through-okrs-and-hypotheses-4f2b9bf94499?gi=1c6e834e41c3)
   * [Why OKRs are broken and how can we fix it?](https://medium.com/@trials_eng_manager/why-okrs-are-broken-and-how-can-we-fix-it-6f736bd74516)
   * [Ask the EM: Can You Really Measure Individual Developer Productivity?](https://blog.pragmaticengineer.com/can-you-measure-developer-productivity/)
+  [Questionable Advice: Can Engineering Productivity Be Measured?](https://charity.wtf/2020/07/07/questionable-advice-can-engineering-productivity-be-measured/)
 
 ## Pair Programming
 

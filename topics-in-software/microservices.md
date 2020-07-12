@@ -83,6 +83,7 @@ Some links that might be useful as we move forward into a microservicesworld:
   * [Should this be a microservice?](https://www.mikebz.com/2019/12/should-this-be-microservice.html)
   * [Data-Oriented Architecture](https://blog.eyas.sh/2020/03/data-oriented-architecture/) - "In data-oriented architecture, a monolithic data store is the sole source of state in the system, which is being acted on by loosely-coupled, stateless microservices."
   * [Untangling Microservices, or Balancing Complexity in Distributed Systems](https://vladikk.com/2020/04/09/untangling-microservices/) - Avoiding the distributed big ball of mud
+  [Building Domain Driven Microservices](https://medium.com/walmartlabs/building-domain-driven-microservices-af688aa1b1b8)
 
 ### Containerization
 
