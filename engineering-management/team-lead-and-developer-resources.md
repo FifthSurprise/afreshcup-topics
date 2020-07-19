@@ -115,7 +115,8 @@ Developers mentoring other developers: practices I've seen work well]]
   * [15 Easy Questions for Easy Change Management](https://medium.com/build-and-learn/15-easy-questions-for-easy-change-management-b0d902f5fe9e) - "If your systems keep breaking when changes are made, answer these questions." A good checklist for major deployments.
   * [Thriving on the Technical Leadership Path ](https://keavy.com/work/thriving-on-the-technical-leadership-path/)
   * [The Leadership Library for Engineers](https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a) - Huge list of resources
-  * * [Technical Lead Management 101 or How to Try Out Management](https://adamconrad.dev/blog/technical-lead-management/)
+  * [Technical Lead Management 101 or How to Try Out Management](https://adamconrad.dev/blog/technical-lead-management/)
+  * [Tech Lead Compass](https://techleadcompass.com/) - Another collection of resources and reading suggestions.
 
 ## Testing
 
