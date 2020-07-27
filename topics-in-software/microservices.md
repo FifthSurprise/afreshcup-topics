@@ -162,6 +162,7 @@ Some links that might be useful as we move forward into a microservicesworld:
   * [Application integration patterns for microservices: Fan-out strategies](https://aws.amazon.com/blogs/compute/application-integration-patterns-for-microservices-fan-out-strategies/) - AWS-specific architectural advice
   * [Distributed transactions are Not Micro-services](https://www.talentica.com/blogs/distributed-transactions-are-not-micro-services/)
   * [Deleting data distributed throughout your microservices architecture](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html)
+  * [Introducing Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/)
 
 ### Testing
 
@@ -223,6 +224,7 @@ Some links that might be useful as we move forward into a microservicesworld:
   * [Microfronts](https://github.com/eavichay/microfronts) - "Polyglot Front-End Solution for running multiple frameworks as one"
   * [Micro Frontends Architecture](https://medium.com/notonlycss/micro-frontends-architecture-1407092403d5)
   * [Microfrontends For The Win!](https://florian-rappl.de/News/Page/408/microfrontends-for-the-win)
+  * [Micro Frontends Benefits](https://apiumhub.com/tech-blog-barcelona/micro-frontends-benefits/)
 
 ## Testing Tools
 

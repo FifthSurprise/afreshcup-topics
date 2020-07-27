@@ -168,6 +168,7 @@ A few links for anyone thinking of hopping to the management track:
 * [Accelerate](https://changelog.com/posts/how-to-build-a-generative-engineering-culture)\[How to build a generative engineering culture\] - If you read \(agile\_scrum\_xp\_and\_lean\) and the idea of a Westrum generative culture resonated with you, here are some ideas of things you as a manager can do to encourage one to flourish.
 * [How to run a successful team retreat](https://knowyourteam.com/blog/2019/08/13/how-to-run-a-successful-team-retreat/)
 * [Organizing team offsites.](https://lethain.com/offsites/)
+* [Team Improvement Techniques](https://www.dcaulfield.com/team-improvement-techniques/)
 
 ## Values
 

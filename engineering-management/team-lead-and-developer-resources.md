@@ -59,7 +59,8 @@ Developers mentoring other developers: practices I've seen work well]]
   * [Alignment through OKR’s and Hypotheses](https://productcoalition.com/alignment-through-okrs-and-hypotheses-4f2b9bf94499?gi=1c6e834e41c3)
   * [Why OKRs are broken and how can we fix it?](https://medium.com/@trials_eng_manager/why-okrs-are-broken-and-how-can-we-fix-it-6f736bd74516)
   * [Ask the EM: Can You Really Measure Individual Developer Productivity?](https://blog.pragmaticengineer.com/can-you-measure-developer-productivity/)
-  [Questionable Advice: Can Engineering Productivity Be Measured?](https://charity.wtf/2020/07/07/questionable-advice-can-engineering-productivity-be-measured/)
+  * [Questionable Advice: Can Engineering Productivity Be Measured?](https://charity.wtf/2020/07/07/questionable-advice-can-engineering-productivity-be-measured/)
+  * [Team Objectives](https://svpg.com/team-objectives-overview/)
 
 ## Pair Programming
 
@@ -117,6 +118,7 @@ Developers mentoring other developers: practices I've seen work well]]
   * [The Leadership Library for Engineers](https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a) - Huge list of resources
   * [Technical Lead Management 101 or How to Try Out Management](https://adamconrad.dev/blog/technical-lead-management/)
   * [Tech Lead Compass](https://techleadcompass.com/) - Another collection of resources and reading suggestions.
+  * [Don't Create Chaos](https://staysaasy.com/management/2020/07/07/dont-create-chaos.html)
 
 ## Testing
 
