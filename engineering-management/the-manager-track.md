@@ -145,6 +145,8 @@ A few links for anyone thinking of hopping to the management track:
 * [Stripe's remote engineering hub, one year in](https://stripe.com/blog/remote-hub-one-year)
 * [Working From Home – Cons and Pros](https://henrikwarne.com/2020/06/09/working-from-home-cons-and-pros/)
 * [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication/)
+* [Emergency Remote: 5 Actions to Win Remote Work](https://www.emergencyremote.com/)
+* [Remote First: How Quora is Thinking Outside the Office](https://greylock.com/quora-remote-first/) - Another "we'll never go remote" company changes their mind.
 
 ## Staying Technical
 

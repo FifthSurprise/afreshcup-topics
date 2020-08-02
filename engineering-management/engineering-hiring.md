@@ -42,6 +42,7 @@
   * [3 good reasons to kill whiteboard and design challenges in interviews](https://uxdesign.cc/3-reasons-to-kill-whiteboard-and-design-challenges-ed8fcfa6ad15?source=rss----138adf9c44c---4)
   * [Design challenges in interviews — how not to?](https://uxdesign.cc/design-challenges-in-interviews-how-not-to-a5c0df44d8bd?source=rss----138adf9c44c---4)
   * [Why We Prefer Coding Challenges and How We Made Ours Better](https://gravitational.com/blog/coding-challenge) - If you're going to require candidates to write serious code, you owe it to them to make the process as good as possible.
+  * [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 
 ## How to Get Hired
 
