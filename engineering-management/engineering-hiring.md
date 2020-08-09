@@ -35,6 +35,8 @@
   * [Tell candidates what to expect from your job interviews](https://jvns.ca/blog/2020/06/30/tell-candidates-what-to-expect-from-your-job-interviews/)
   * [Job Interviews Don’t Work](https://fs.blog/2020/07/job-interviews/)
   * [Semantic Versioning - A Heuristic for Expertice](https://mdc.life/thoughts/semver-and-heuristics/)
+  * [Interviewing the "passé" way (for a reason)](https://no-kill-switch.ghost.io/interviewing-the-passe-way-for-a-reason/)
+  * [Some common hiring manager mistakes.](https://lethain.com/common-hiring-manager-mistakes/)
 
 
 ### Take-Homes and Challenges

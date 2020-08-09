@@ -18,6 +18,7 @@ Many of these are aimed specifically at team leads, but there are more general a
   * [How to Make Good Code Reviews Better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/)
   * [The Engineering Manager's Guide to the Code Review Process](https://www.gitprime.com/guides/code-review/) - From GitPrime
   * [How to do High-Bar Code Review Without Being a Jerk](https://andrewking.ca/2020/01/how-to-do-high-bar-code-review-without-being-a-jerk/)
+  * [Our Code Review Etiquette](https://www.ombulabs.com/blog/best-practices/pull-requests/our-code-review-etiquette.html)
 
 ## Culture
 
@@ -119,6 +120,7 @@ Developers mentoring other developers: practices I've seen work well]]
   * [Technical Lead Management 101 or How to Try Out Management](https://adamconrad.dev/blog/technical-lead-management/)
   * [Tech Lead Compass](https://techleadcompass.com/) - Another collection of resources and reading suggestions.
   * [Don't Create Chaos](https://staysaasy.com/management/2020/07/07/dont-create-chaos.html)
+  * [6 Must-Read Books for New Technical Leads](https://medium.com/better-programming/6-must-read-books-for-new-technical-leads-99e9737b8630)
 
 ## Testing
 
