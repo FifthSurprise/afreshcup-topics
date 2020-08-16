@@ -10,3 +10,4 @@ I'm not sure I'm going to flesh out this section, but for my current job I'm nee
   * [How and why GraphQL will influence the SourceHut alpha](https://sourcehut.org/blog/2020-06-10-how-graphql-will-shape-the-alpha/) - A case study
   * [RuboCop::GraphQL](https://github.com/DmitryTsepelev/rubocop-graphql) - "Rubocop extension for enforcing graphql-ruby best practices."
   * [GraphQL Query Generator by IBM](https://blog.graphqleditor.com/graphql-query-generator/)
+  * [URQL - Universal React Query Library (GraphQL Client)](https://blog.graphqleditor.com/urql-graphql-client/)

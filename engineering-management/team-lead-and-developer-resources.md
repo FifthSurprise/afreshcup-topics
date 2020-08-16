@@ -88,6 +88,7 @@ Developers mentoring other developers: practices I've seen work well]]
   * [15 Questions to Ask at the Start of a New Software Project ](https://spin.atomicobject.com/2020/01/24/new-software-project-questions/)
   * [Driving engineers to an arbitrary date is a value destroying mistake](https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49)
   * [How to kill a project](https://chiefofstuff.substack.com/p/how-to-kill-a-project) - Know your enemy.
+  * [Ask the EM: How Can I work Better with My Product Manager, as an Engineering Lead?](https://blog.pragmaticengineer.com/how-engineering-can-work-better-with-product-managers/)
 
 ## Self-organizing Teams
 
