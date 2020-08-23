@@ -26,6 +26,7 @@ A few links for anyone thinking of hopping to the management track:
 * [Manager's Playbook](https://github.com/ksindi/managers-playbook) - A collection of "heuristics for effective management."
 * [New manager training: The 4 concepts to teach](https://knowyourteam.com/blog/2020/06/21/new-manager-training-the-4-concepts-to-teach/)
 * [A User Guide To Working With You](https://lg.substack.com/p/the-looking-glass-a-user-guide-to)
+* [This 90-Day Plan Turns Engineers into Remarkable Managers](https://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/)
 
 ## Career Paths
 
@@ -196,6 +197,7 @@ A few links for anyone thinking of hopping to the management track:
 * [The Evolution of Management](https://queue.acm.org/detail.cfm?id=3350548) - "Transitioning up the ladder"
 * [What do executives do, anyway?](https://apenwarr.ca/log/20190926) - Looking further up the ladder
 * [The path to managing managers](https://www.theengineeringmanager.com/managing-managers/the-path-to-managing-managers/)
+* [VP, Director, what?](https://www.theengineeringmanager.com/managing-managers/vp-director-what/)
 
 ## Unsorted Links
 

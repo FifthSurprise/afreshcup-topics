@@ -216,7 +216,6 @@ Some links that might be useful as we move forward into a microservicesworld:
 
 ### Front-End
 
-
   * [Micro Frontends](https://medium.facilelogin.com/securing-microservices-with-oauth-2-0-jwt-and-xacml-d03770a9a838)
   * [Front-end Microservices at HelloFresh](https://engineering.hellofresh.com/front-end-microservices-at-hellofresh-23978a611b87?gi=f51d159f5316)
   * [Front-End Micro Services](https://jobs.zalando.com/tech/blog/front-end-micro-services/) - Zalando's approach to composing HTML fragments while maintaining consistency
@@ -225,6 +224,7 @@ Some links that might be useful as we move forward into a microservicesworld:
   * [Micro Frontends Architecture](https://medium.com/notonlycss/micro-frontends-architecture-1407092403d5)
   * [Microfrontends For The Win!](https://florian-rappl.de/News/Page/408/microfrontends-for-the-win)
   * [Micro Frontends Benefits](https://apiumhub.com/tech-blog-barcelona/micro-frontends-benefits/)
+  * [Micro frontends with Stacker](https://dev.betterdoc.org/stacker/2020/06/26/micro-frontends-with-stacker.html)
 
 ## Testing Tools
 

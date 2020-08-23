@@ -106,6 +106,7 @@ Developers mentoring other developers: practices I've seen work well]]
   * [How to Make Things High-Quality](https://www.linkedin.com/pulse/how-make-things-high-quality-julie-zhuo/) - If it's not worth doing well, it's not worth doing at all.
   * [Technical Debt is Soul-crushing](https://codeahoy.com/2020/01/25/technical-debt/)
   * [Tech Debt and the Pragmatic Middle Ground](https://blog.pragmaticengineer.com/tech-debt/)
+  * [5 arguments to make managers care about technical debt](https://understandlegacycode.com/blog/5-arguments-to-make-managers-care-about-technical-debt/)
 
 ## Technical Leadership
 
