@@ -14,6 +14,7 @@
   * [Self-Contained Systems](https://scs-architecture.org/index.html) - A middle path between monolith and microservice.
   * [Architecture Jams: a Collaborative Way of Designing Software](https://blog.pragmaticengineer.com/software-architecture-jams/)
   * [Your technology architecture and engineering organization should coevolve as your startup grows](https://www.abhishek-tiwari.com/your-technology-architecture-and-engineering-organization-should-coevolve-as-your-startup-grows/)
+  * [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/software-architecture.html)
 
 ## Front-end/UI
 

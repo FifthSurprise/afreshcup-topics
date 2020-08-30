@@ -25,6 +25,7 @@ Many of these are aimed specifically at team leads, but there are more general a
   * [How to Create a Great Team Culture (and Why It Matters)](https://queue.acm.org/detail.cfm?id=3323993)
   * [the Origins of Opera and the Future of Programming](https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960) - "You don’t hire star developers, put them together, and poof get a great team. It’s the other way around. When developers form a great team, the team makes us into great developers."
   * [Do Software Developers Normally Code on Weekends? Work-life Balance and Overtime in the Tech Industry](https://codeahoy.com/2019/10/19/do-software-developers-work-weekends-work-life-tech/)
+  * [Continually Growing Your Engineering Skills While Scaling the Organization: Wix Engineering Culture](https://www.wix.engineering/post/continually-growing-your-engineering-skills-while-scaling-the-organization-wix-engineering-culture)
 
 ## Documentation, Communications and Status
 
