@@ -27,6 +27,7 @@ A few links for anyone thinking of hopping to the management track:
 * [New manager training: The 4 concepts to teach](https://knowyourteam.com/blog/2020/06/21/new-manager-training-the-4-concepts-to-teach/)
 * [A User Guide To Working With You](https://lg.substack.com/p/the-looking-glass-a-user-guide-to)
 * [This 90-Day Plan Turns Engineers into Remarkable Managers](https://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/)
+* [The Official, Authorized List Of Legitimate Reasons For Deciding to Become a Manager](https://charity.wtf/2020/09/01/the-official-authorized-list-of-legitimate-reasons-for-deciding-to-become-a-manager/)
 
 ## Career Paths
 
@@ -173,6 +174,7 @@ A few links for anyone thinking of hopping to the management track:
 * [How to run a successful team retreat](https://knowyourteam.com/blog/2019/08/13/how-to-run-a-successful-team-retreat/)
 * [Organizing team offsites.](https://lethain.com/offsites/)
 * [Team Improvement Techniques](https://www.dcaulfield.com/team-improvement-techniques/)
+* [Optimize Onboarding](https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html) - "If your report spends the first two weeks reading C# documentation and having lunch out on the town with the team, guess what, they’ve just normalized that behavior as what the role is."
 
 ## Values
 

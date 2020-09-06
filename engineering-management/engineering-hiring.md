@@ -37,7 +37,7 @@
   * [Semantic Versioning - A Heuristic for Expertice](https://mdc.life/thoughts/semver-and-heuristics/)
   * [Interviewing the "passé" way (for a reason)](https://no-kill-switch.ghost.io/interviewing-the-passe-way-for-a-reason/)
   * [Some common hiring manager mistakes.](https://lethain.com/common-hiring-manager-mistakes/)
-
+  * [Why GitHub Won't Help You With Hiring](https://www.benfrederickson.com/github-wont-help-with-hiring/) - GitHub profiles are an extremely weak signal.
 
 ### Take-Homes and Challenges
 

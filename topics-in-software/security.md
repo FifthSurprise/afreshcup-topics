@@ -11,3 +11,6 @@
 
   * [Putting AWS Security Services to Work for You](https://aws.amazon.com/blogs/aws/aws-heroes-putting-aws-security-services-to-work-for-you/)
 
+## Supply Chain Security
+
+  * [Secure at every step: What is software supply chain security and why does it matter?](https://github.blog/2020-09-02-secure-your-software-supply-chain-and-protect-against-supply-chain-threats-github-blog/)
