@@ -124,6 +124,8 @@ Developers mentoring other developers: practices I've seen work well]]
   * [Tech Lead Compass](https://techleadcompass.com/) - Another collection of resources and reading suggestions.
   * [Don't Create Chaos](https://staysaasy.com/management/2020/07/07/dont-create-chaos.html)
   * [6 Must-Read Books for New Technical Leads](https://medium.com/better-programming/6-must-read-books-for-new-technical-leads-99e9737b8630)
+  * [Things I Learned to Become a Senior Software Engineer](https://neilkakkar.com/things-I-learned-to-become-a-senior-software-engineer.html)
+  * [How I operated as a Staff engineer at Heroku]()
 
 ## Testing
 

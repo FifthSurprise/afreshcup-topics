@@ -39,6 +39,7 @@ A few links for anyone thinking of hopping to the management track:
 * [On being an Engineering Manager](https://nickmchardy.com/2019/02/on-being-an-engineering-manager.html) - Another tale of trying management and pulling back
 * [Software Roles and Titles](https://medium.com/javascript-scene/software-roles-and-titles-e3f0b69c410c)
 * [Career Growth Frameworks in Software Engineering: A Review](https://medium.com/better-programming/career-growth-frameworks-in-software-engineering-a-review-4aa6c59a9cf6)
+* [If Management Isn’t A Promotion, Then Engineering Isn’t A Demotion](https://charity.wtf/2020/09/06/if-management-isnt-a-promotion-then-engineering-isnt-a-demotion/)
 
 ## Coaching, Mentoring, and O3s
 
@@ -176,6 +177,7 @@ A few links for anyone thinking of hopping to the management track:
 * [Team Improvement Techniques](https://www.dcaulfield.com/team-improvement-techniques/)
 * [Optimize Onboarding](https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html) - "If your report spends the first two weeks reading C# documentation and having lunch out on the town with the team, guess what, they’ve just normalized that behavior as what the role is."
 
+
 ## Values
 
 * [Engineering Values](https://medium.engineering/engineering-values-7143c0db0bd6) - A list of values for one team at Medium
@@ -221,4 +223,5 @@ A few links for anyone thinking of hopping to the management track:
 * [Lessons on leadership: The 10 most impactful lessons I’ve learned from 1,000+ managers in 2019](https://knowyourteam.com/blog/2019/12/18/lessons-on-leadership-the-10-most-impactful-lessons-ive-learned-from-1000-managers-in-2019/)
 * [How to build your company's engineering brand.](https://lethain.com/eng-brand/)
 * [Lessons learned managing the GitLab Data team](https://about.gitlab.com/blog/2020/02/10/lessons-learned-as-data-team-manager/) - Reflecting on a year of management
+* [Bucketing your time](https://www.theengineeringmanager.com/managing-managers/bucketing-your-time/)
 

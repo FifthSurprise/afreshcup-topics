@@ -45,6 +45,7 @@
   * [Design challenges in interviews — how not to?](https://uxdesign.cc/design-challenges-in-interviews-how-not-to-a5c0df44d8bd?source=rss----138adf9c44c---4)
   * [Why We Prefer Coding Challenges and How We Made Ours Better](https://gravitational.com/blog/coding-challenge) - If you're going to require candidates to write serious code, you owe it to them to make the process as good as possible.
   * [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+  * [Why I Don’t Have Time For Your Coding Challenge](https://css-irl.info/why-i-dont-have-time-for-your-coding-challenge/)
 
 ## How to Get Hired
 
