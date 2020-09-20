@@ -84,6 +84,7 @@ A few links for anyone thinking of hopping to the management track:
 * [Individual Performance Appraisals, Just Say No! ](https://holub.com/individual-performance-appraisals-just-say-no/) - If the team does the work, why are you grading the people?
 * [How I Do \(Hopefully\) Fair Performance Reviews for Software Developers](https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/)
 * [How Much Should You Pay Your Engineers to Ensure They Stick Around?](https://builtin.com/employee-engagement/how-much-engineer-pay)
+* [Things to know about engineering levels](https://charity.wtf/2020/09/14/useful-things-to-know-about-engineering-levels/)
 
 ## On-Call/Incident Management
 
@@ -176,7 +177,7 @@ A few links for anyone thinking of hopping to the management track:
 * [Organizing team offsites.](https://lethain.com/offsites/)
 * [Team Improvement Techniques](https://www.dcaulfield.com/team-improvement-techniques/)
 * [Optimize Onboarding](https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html) - "If your report spends the first two weeks reading C# documentation and having lunch out on the town with the team, guess what, they’ve just normalized that behavior as what the role is."
-
+* [The 13 best questions to ask during the remote onboarding process](https://knowyourteam.com/blog/2020/09/14/the-13-best-questions-to-ask-during-the-remote-onboarding-process/)
 
 ## Values
 

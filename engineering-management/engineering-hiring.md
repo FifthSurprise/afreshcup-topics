@@ -38,6 +38,8 @@
   * [Interviewing the "passé" way (for a reason)](https://no-kill-switch.ghost.io/interviewing-the-passe-way-for-a-reason/)
   * [Some common hiring manager mistakes.](https://lethain.com/common-hiring-manager-mistakes/)
   * [Why GitHub Won't Help You With Hiring](https://www.benfrederickson.com/github-wont-help-with-hiring/) - GitHub profiles are an extremely weak signal.
+  * [Designing a Candidate-Focused Interview Process](https://blog.readme.com/designing-a-candidate-focused-interview-process/)
+  * [Tactical Challenges In Hiring Junior Engineers](https://medium.com/@copyconstruct/tactical-challenges-in-hiring-junior-engineers-29e31634a9bd?source=---------4----------------------------)
 
 ### Take-Homes and Challenges
 
@@ -62,6 +64,7 @@
   * [Career advice for people with bad luck](https://chiefofstuff.substack.com/p/career-advice-for-people-with-bad)
   * [Questions to the Company in a Programming Job Interview](https://medium.com/@philpirj/questions-to-ask-in-a-programming-job-interview-70b9ed49c53e?source=friends_link&sk=a2c5fad4864cc46bb05f5558f836343d)
   * [My Mid-Career Job-Hunt: A Data Point for Job-Seeking Devs](https://www.philosophicalhacker.com/post/data-point-for-job-seeking-devs/)
+  * [6 red flags I saw while doing 60+ technical interviews in 30 days](http://blog.interviewing.io/6-red-flags-i-saw-while-doing-60-technical-interviews-in-30-days/)
 
 ## Books
 
