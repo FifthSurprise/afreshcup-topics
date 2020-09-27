@@ -28,6 +28,7 @@ A few links for anyone thinking of hopping to the management track:
 * [A User Guide To Working With You](https://lg.substack.com/p/the-looking-glass-a-user-guide-to)
 * [This 90-Day Plan Turns Engineers into Remarkable Managers](https://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/)
 * [The Official, Authorized List Of Legitimate Reasons For Deciding to Become a Manager](https://charity.wtf/2020/09/01/the-official-authorized-list-of-legitimate-reasons-for-deciding-to-become-a-manager/)
+* [Meeting everyone on a new team](https://www.annashipman.co.uk/jfdi/meeting-everyone.html)
 
 ## Career Paths
 
@@ -85,6 +86,8 @@ A few links for anyone thinking of hopping to the management track:
 * [How I Do \(Hopefully\) Fair Performance Reviews for Software Developers](https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/)
 * [How Much Should You Pay Your Engineers to Ensure They Stick Around?](https://builtin.com/employee-engagement/how-much-engineer-pay)
 * [Things to know about engineering levels](https://charity.wtf/2020/09/14/useful-things-to-know-about-engineering-levels/)
+* [Why and how to do annual performance reviews](https://www.annashipman.co.uk/jfdi/end-year-reviews.html)
+* [BIAS INTERRUPTERS FOR PERFORMANCE EVALUATIONS](https://biasinterrupters.org/wp-content/uploads/Identifying-Bias-in-Performance-Evaluations-Guide-no-citations.pdf)
 
 ## On-Call/Incident Management
 
@@ -152,6 +155,7 @@ A few links for anyone thinking of hopping to the management track:
 * [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication/)
 * [Emergency Remote: 5 Actions to Win Remote Work](https://www.emergencyremote.com/)
 * [Remote First: How Quora is Thinking Outside the Office](https://greylock.com/quora-remote-first/) - Another "we'll never go remote" company changes their mind.
+* [Better culture: Keeping remote employees engaged and active](https://nohq.co/blog/better-culture-keeping-remote-employees-engaged-an/)
 
 ## Staying Technical
 

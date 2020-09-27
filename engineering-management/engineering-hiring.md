@@ -57,7 +57,6 @@
   * [Interviewing at Senior Levels](https://larahogan.me/blog/interviewing-at-senior-levels/) - Advice from Lara Hogan
   * [Reverse Interview](https://github.com/viraptor/reverse-interview) - Questions you should ask the company
   * [What to ask during your interview](https://www.mikebz.com/2019/09/what-to-ask-during-your-interview.html) - Another selection of reverse interview questions.
-  * [Job negotiation for programmers: the basic principles](https://codewithoutrules.com/2019/11/27/job-negotiation-for-programmers/)
   * [Tech Hiring Managers Answer Common Behavioral Interview Questions](https://medium.com/better-programming/hiring-managers-share-how-to-answer-behavioral-interview-questions-e78e0e9df572)
   * [Questions to ask at the end of a technical interview](https://smalldata.tech/blog/2017/03/27/questions-to-ask-at-the-end-of-a-technical-interview)
   * [Questions To Ask During An Interview As a Developer](https://github.com/Phantas0s/questions-job-interview)
@@ -65,6 +64,12 @@
   * [Questions to the Company in a Programming Job Interview](https://medium.com/@philpirj/questions-to-ask-in-a-programming-job-interview-70b9ed49c53e?source=friends_link&sk=a2c5fad4864cc46bb05f5558f836343d)
   * [My Mid-Career Job-Hunt: A Data Point for Job-Seeking Devs](https://www.philosophicalhacker.com/post/data-point-for-job-seeking-devs/)
   * [6 red flags I saw while doing 60+ technical interviews in 30 days](http://blog.interviewing.io/6-red-flags-i-saw-while-doing-60-technical-interviews-in-30-days/)
+
+## Negotiation
+
+  * [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+  * [Job negotiation for programmers: the basic principles](https://codewithoutrules.com/2019/11/27/job-negotiation-for-programmers/)
+  * [Salary Negotiation](https://docs.google.com/document/d/1sjmMhdTT0n0uZu5iv4ZfQ651yxD7wlI0nz4sUCQGOss/edit)
 
 ## Books
 
