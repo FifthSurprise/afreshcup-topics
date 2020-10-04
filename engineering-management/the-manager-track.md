@@ -156,6 +156,7 @@ A few links for anyone thinking of hopping to the management track:
 * [Emergency Remote: 5 Actions to Win Remote Work](https://www.emergencyremote.com/)
 * [Remote First: How Quora is Thinking Outside the Office](https://greylock.com/quora-remote-first/) - Another "we'll never go remote" company changes their mind.
 * [Better culture: Keeping remote employees engaged and active](https://nohq.co/blog/better-culture-keeping-remote-employees-engaged-an/)
+* [Strategies for Remote Mentorship](https://spin.atomicobject.com/2020/09/27/remote-mentorship/)
 
 ## Staying Technical
 
@@ -200,6 +201,7 @@ A few links for anyone thinking of hopping to the management track:
 * [Developer Burnout: How Can a Manager Spot It and Stop It](https://codingsans.com/blog/developer-burnout)
 * [It's Not All About You: Truly Empowering Your People](https://drodio.com/its-not-all-about-you-truly-empowering-your-people/)
 * [How to Avoid Mediocre Leadership in Trying Times])https://www.visualcapitalist.com/how-to-avoid-mediocre-leadership/
+* [Recognize your management wins](https://larahogan.me/blog/recognize-your-management-wins/)
 
 ## Beyond First-Line Manager
 
