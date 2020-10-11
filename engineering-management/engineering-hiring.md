@@ -41,6 +41,7 @@
   * [Designing a Candidate-Focused Interview Process](https://blog.readme.com/designing-a-candidate-focused-interview-process/)
   * [Tactical Challenges In Hiring Junior Engineers](https://medium.com/@copyconstruct/tactical-challenges-in-hiring-junior-engineers-29e31634a9bd?source=---------4----------------------------)
   * [How To Reject Engineering Candidates](https://code.dblock.org/2013/05/26/how-to-reject-engineering-candidates.html)
+  * [Startup Hiring 101: A Founder's Guide](https://www.notion.so/Startup-Hiring-101-A-Founder-s-Guide-946dad6dd9fd433abdd12338a83e931f)
 
 ### Take-Homes and Challenges
 

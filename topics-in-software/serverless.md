@@ -29,6 +29,7 @@ description: Mostly (but not entirely) AWS Lambda related
   * [AWS Serverless WebSockets — Introduction Around the Pitfalls](https://medium.com/@jlaitio/aws-serverless-websockets-introduction-around-the-pitfalls-f623518635df)
   * [AWS Lambda the CLI Way](https://github.com/nsriram/lambda-the-cli-way) - In-depth tutorial that does everything from the command line.
   * [The Serverless Software Development Lifecycle](https://www.trek10.com/blog/the-serverless-software-development-lifecycle) - "A quick look at building, testing, and deploying AWS Lambda based apps and how to set yourself up for success."
+  * [The Complete AWS Lambda Handbook for Beginners (Part 1)](https://dashbird.io/blog/complete-aws-lambda-handbook-beginners-part-1/)
 
 ### OpenFaaS
 

@@ -157,12 +157,13 @@ A few links for anyone thinking of hopping to the management track:
 * [Remote First: How Quora is Thinking Outside the Office](https://greylock.com/quora-remote-first/) - Another "we'll never go remote" company changes their mind.
 * [Better culture: Keeping remote employees engaged and active](https://nohq.co/blog/better-culture-keeping-remote-employees-engaged-an/)
 * [Strategies for Remote Mentorship](https://spin.atomicobject.com/2020/09/27/remote-mentorship/)
+* [Getting noticed as a remote engineer – and why it matters](https://triplebyte.com/blog/getting-noticed-as-a-remote-engineer-and-why-it-matters/?ref=hnpost)
 
 ## Staying Technical
 
 * [From Engineer to Manager: keeping your technical skills](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
 * [How \(and why\) Should Managers Code?](https://medium.com/@jstanier/keeping-your-1-to-1s-fresh-82814bbedf7a)
-* [The Fallacy of needing a technical manager ](https://unwiredcouch.com/2019/11/19/technical-manager.html)
+* [The Fallacy of needing a technical manager](https://unwiredcouch.com/2019/11/19/technical-manager.html)
 
 ## Team-Building and Scaling
 

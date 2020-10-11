@@ -85,6 +85,7 @@ Some links that might be useful as we move forward into a microservicesworld:
   * [Untangling Microservices, or Balancing Complexity in Distributed Systems](https://vladikk.com/2020/04/09/untangling-microservices/) - Avoiding the distributed big ball of mud
   * [Building Domain Driven Microservices](https://medium.com/walmartlabs/building-domain-driven-microservices-af688aa1b1b8)
   * [Under Deconstruction: The State of Shopify’s Monolith](https://engineering.shopify.com/blogs/engineering/shopify-monolith)
+  * [Monolith -> Services: Theory & Practice](https://medium.com/@kentbeck_7670/monolith-services-theory-practice-617e4546a879) - Kent Beck's take on the subject.
 
 ### Containerization
 
