@@ -15,6 +15,7 @@
   * [Architecture Jams: a Collaborative Way of Designing Software](https://blog.pragmaticengineer.com/software-architecture-jams/)
   * [Your technology architecture and engineering organization should coevolve as your startup grows](https://www.abhishek-tiwari.com/your-technology-architecture-and-engineering-organization-should-coevolve-as-your-startup-grows/)
   * [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/software-architecture.html)
+  * [Modern-Day Architecture Design Patterns for Software Professionals](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
 
 ## Front-end/UI
 

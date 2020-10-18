@@ -29,6 +29,7 @@ A few links for anyone thinking of hopping to the management track:
 * [This 90-Day Plan Turns Engineers into Remarkable Managers](https://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/)
 * [The Official, Authorized List Of Legitimate Reasons For Deciding to Become a Manager](https://charity.wtf/2020/09/01/the-official-authorized-list-of-legitimate-reasons-for-deciding-to-become-a-manager/)
 * [Meeting everyone on a new team](https://www.annashipman.co.uk/jfdi/meeting-everyone.html)
+* [What is expected of a Engineering Manager?](http://blog.rlmflores.me/2020/10/14/what_is_expected_of_an_engineering_manager/)
 
 ## Career Paths
 
@@ -60,6 +61,8 @@ A few links for anyone thinking of hopping to the management track:
 * [Essential Meetings to Have With Your People as a Manager](https://ajahne.github.io/blog/leadership/2019/07/24/essential-meetings-to-have-with-your-people-as-a-manager.html)
 * [1 on 1 Meeting Questions](https://github.com/VGraupera/1on1-questions) - An extensive crowdsourced list.
 * [121 One-on-one Questions](https://soapboxhq.com/blog/meetings/121-questions-for-one-on-one-meetings)
+* [Less status updates, more coaching](https://www.theengineeringmanager.com/managing-managers/less-status-updates-more-coaching/)
+* [1-on-1 Meetings: More Important than Ever](https://spin.atomicobject.com/2020/10/07/1-on-1-meeting-covid/)
 
 ## Communicating
 

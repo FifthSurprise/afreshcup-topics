@@ -125,6 +125,7 @@ Some links that might be useful as we move forward into a microservicesworld:
   * [Architecting multiple microservices behind a single domain with Amazon API Gateway](https://aws.amazon.com/blogs/compute/architecting-multiple-microservices-behind-a-single-domain-with-amazon-api-gateway/)
   * [ExcessFlow](https://github.com/ConvertKit/excess_flow) - "ExcessFlow is a high precision Redis based rate limiter; it means that even with hundreds and even thousands requests coming in all at once it will not allow an occasional request slip over limit (causing potential race conditions or unwanted extra invocations of your code)."
   * [How to communicate your Microservices?](https://blog.softwaremill.com/how-to-communicate-your-microservices-6542cb4f98c7) - Choices for external APIs.
+  * [API Pagination Design](https://solovyov.net/blog/2020/api-pagination-design/)
 
 
 ### Messaging
